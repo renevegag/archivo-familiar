@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Inicio — Archivo Familiar</title>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400&family=Crimson+Pro:ital,wght@0,300;0,400;0,500;1,300;1,400&family=JetBrains+Mono:wght@300;400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<div class="top-bar">
+  <div class="breadcrumb"><span class="bc-current">Inicio</span></div>
+  <span class="top-bar-right">ARCHIVO FAMILIAR — ARCHIVO FAMILIAR</span>
+</div>
+
+<div class="page-header">
+  <div class="hdr-meta">ARCHIVO FAMILIAR</div>
+  <div class="hdr-title" style="font-size:52px">Archivo Familiar</div>
+  <div class="hdr-sub">Investigación Genealógica · Documental y Fotográfica · 4 Familias</div>
+</div>
+<div style="max-width:1100px;margin:40px auto 0;padding:0 40px;">
+  <div class="search-bar">
+    <input class="search-input" id="search-input" type="text" placeholder="Buscar personas, documentos, lugares, eventos…">
+    <button class="search-btn" onclick="goSearch(document.getElementById('search-input').value)">Buscar</button>
+  </div>
+  <div class="search-filters">
+    <button class="filter-btn active" data-filter="todos">Todos</button>
+    <button class="filter-btn" data-filter="persona">Personas</button>
+    <button class="filter-btn" data-filter="documento">Documentos</button>
+    <button class="filter-btn" data-filter="lugar">Lugares</button>
+    <button class="filter-btn" data-filter="evento">Eventos</button>
+  </div>
+  <div id="results-header" class="results-header"></div>
+  <div id="results"></div>
+
+  <div class="stats-row">
+    <div class="stat-box"><div class="stat-num">273</div><div class="stat-label">Personas</div></div>
+    <div class="stat-box"><div class="stat-num">319</div><div class="stat-label">Documentos</div></div>
+    <div class="stat-box"><div class="stat-num">9</div><div class="stat-label">Lugares</div></div>
+    <div class="stat-box"><div class="stat-num">0</div><div class="stat-label">Eventos</div></div>
+  </div>
+
+  <div style="margin-bottom:36px;">
+    <div style="display:flex;align-items:baseline;justify-content:space-between;margin-bottom:16px;">
+      <h2 style="font-family:'Playfair Display',serif;font-size:26px;color:var(--sepia-dark);">Personas</h2>
+      <a href="personas.html" style="font-family:'JetBrains Mono',monospace;font-size:10px;letter-spacing:.1em;color:var(--gold);border:none;">VER TODAS →</a>
+    </div>
+    <div class="index-grid">
+    <a class="index-card" href="personas/PEb0001.html">
+      <div class="index-card-id">PEb0001</div>
+      <div class="index-card-title">Ahumada, Albina</div>
+      <div class="index-card-meta">Persona Externa · Siglo XIX</div>
+    </a>
+    <a class="index-card" href="personas/PEb0002.html">
+      <div class="index-card-id">PEb0002</div>
+      <div class="index-card-title">Ahumada, Juan José</div>
+      <div class="index-card-meta">Persona Externa · Siglo XIX</div>
+    </a>
+    <a class="index-card" href="personas/FPa0001.html">
+      <div class="index-card-id">FPa0001</div>
+      <div class="index-card-title">Alarcón Arratia, Anna Nazaria de Jesús</div>
+      <div class="index-card-meta">Familia Política · Siglo XIX</div>
+    </a>
+    <a class="index-card" href="personas/FPa0028.html">
+      <div class="index-card-id">FPa0028</div>
+      <div class="index-card-title">Alarcón Arratia, José María</div>
+      <div class="index-card-meta">Familia Política · Siglo XIX</div>
+    </a>
+    <a class="index-card" href="personas/FPa0027.html">
+      <div class="index-card-id">FPa0027</div>
+      <div class="index-card-title">Alarcón Arratia, Rómula</div>
+      <div class="index-card-meta">Familia Política · Siglo XIX</div>
+    </a>
+    <a class="index-card" href="personas/PEa0004.html">
+      <div class="index-card-id">PEa0004</div>
+      <div class="index-card-title">Alarcón, Antonia</div>
+      <div class="index-card-meta">Persona Externa · Siglo XIX</div>
+    </a></div>
+  </div>
+
+  <div style="margin-bottom:36px;">
+    <div style="display:flex;align-items:baseline;justify-content:space-between;margin-bottom:16px;">
+      <h2 style="font-family:'Playfair Display',serif;font-size:26px;color:var(--sepia-dark);">Documentos</h2>
+      <a href="documentos.html" style="font-family:'JetBrains Mono',monospace;font-size:10px;letter-spacing:.1em;color:var(--gold);border:none;">VER TODOS →</a>
+    </div>
+    <div class="index-grid">
+    <a class="index-card" href="documentos/5Aa0L0.html">
+      <div class="index-card-id">5Aa0L0</div>
+      <div class="index-card-title">Arturo Benítez García</div>
+      <div class="index-card-meta">Fotografía · —</div>
+    </a>
+    <a class="index-card" href="documentos/2D00F004.html">
+      <div class="index-card-id">2D00F004</div>
+      <div class="index-card-title">Croquis Amecameca-Atlixco</div>
+      <div class="index-card-meta">Croquis · —</div>
+    </a>
+    <a class="index-card" href="documentos/2D00F005.html">
+      <div class="index-card-id">2D00F005</div>
+      <div class="index-card-title">Croquis Valle de México</div>
+      <div class="index-card-meta">Croquis · —</div>
+    </a>
+    <a class="index-card" href="documentos/5Cf18L0.html">
+      <div class="index-card-id">5Cf18L0</div>
+      <div class="index-card-title">Cruz Chávez, Hilda Núñez Josafat y Virginia Núñez</div>
+      <div class="index-card-meta">Fotografía · —</div>
+    </a>
+    <a class="index-card" href="documentos/6Aa2Mg01.html">
+      <div class="index-card-id">6Aa2Mg01</div>
+      <div class="index-card-title">Directorio Farmacia La Purísima (Sin Fecha)</div>
+      <div class="index-card-meta">Ilustración · —</div>
+    </a>
+    <a class="index-card" href="documentos/5Dg8L0.html">
+      <div class="index-card-id">5Dg8L0</div>
+      <div class="index-card-title">Don Álvaro Vega González</div>
+      <div class="index-card-meta">Fotografía · —</div>
+    </a></div>
+  </div>
+</div>
+<div class="site-footer">Archivo Familiar · Investigación Genealógica · Documental y Fotográfica · 4 Familias · Generado el 21/03/2026 11:02</div>
+<script src="assets/search.js"></script>
+</body></html>

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Buscar — Archivo Familiar</title>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400&family=Crimson+Pro:ital,wght@0,300;0,400;0,500;1,300;1,400&family=JetBrains+Mono:wght@300;400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<div class="top-bar">
+  <div class="breadcrumb"><a href="index.html">Inicio</a><span class="bc-sep">/</span><span class="bc-current">Buscar</span></div>
+  <span class="top-bar-right">ARCHIVO FAMILIAR — ARCHIVO FAMILIAR</span>
+</div>
+
+<div class="page-header">
+  <div class="hdr-meta">BUSCADOR</div>
+  <div class="hdr-title">Buscar en el Archivo</div>
+</div>
+<div style="max-width:900px;margin:40px auto;padding:0 40px;">
+  <div class="search-bar">
+    <input class="search-input" id="search-input" type="text"
+           placeholder="Buscar por nombre, apellido, lugar, año, tipo de documento…">
+    <button class="search-btn">Buscar</button>
+  </div>
+  <div class="search-filters">
+    <button class="filter-btn active" data-filter="todos">Todos</button>
+    <button class="filter-btn" data-filter="persona">Personas</button>
+    <button class="filter-btn" data-filter="documento">Documentos</button>
+    <button class="filter-btn" data-filter="lugar">Lugares</button>
+    <button class="filter-btn" data-filter="evento">Eventos</button>
+  </div>
+  <div id="results-header" class="results-header"></div>
+  <div id="results"></div>
+</div>
+<div class="site-footer">Archivo Familiar · Investigación Genealógica · Documental y Fotográfica · 4 Familias · Generado el 21/03/2026 11:02</div>
+<script src="assets/search.js"></script>
+</body></html>
