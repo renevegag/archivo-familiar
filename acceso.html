@@ -1,0 +1,327 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Archivo Familiar — Acceso</title>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400&family=Crimson+Pro:ital,wght@0,300;0,400;0,500;1,300;1,400&family=JetBrains+Mono:wght@300;400&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --sepia-dark:  #1a1208;
+    --sepia-warm:  #6b4c35;
+    --sepia-light: #c4a882;
+    --sepia-paper: #f5ead8;
+    --sepia-cream: #faf4e8;
+    --sepia-mist:  #e8d9be;
+    --gold:        #b8860b;
+    --gold-light:  #d4a017;
+    --accent-red:  #8b1a1a;
+  }
+
+  * { margin:0; padding:0; box-sizing:border-box; }
+
+  body {
+    background: var(--sepia-dark);
+    font-family: 'Crimson Pro', Georgia, serif;
+    color: var(--sepia-cream);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    overflow: hidden;
+  }
+
+  /* Fondo con líneas sutiles */
+  body::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: repeating-linear-gradient(
+      0deg, transparent, transparent 28px,
+      rgba(196,168,130,0.03) 28px, rgba(196,168,130,0.03) 29px
+    );
+    pointer-events: none;
+  }
+
+  /* Línea dorada superior */
+  body::after {
+    content: '';
+    position: absolute;
+    top: 0; left: 0; right: 0;
+    height: 2px;
+    background: linear-gradient(90deg, transparent, var(--gold), transparent);
+  }
+
+  .login-box {
+    position: relative;
+    width: 100%;
+    max-width: 420px;
+    padding: 0 24px;
+    animation: fadeUp 0.6s ease both;
+  }
+
+  /* Ornamento superior */
+  .ornament {
+    text-align: center;
+    color: var(--gold);
+    font-size: 14px;
+    letter-spacing: 12px;
+    opacity: 0.4;
+    margin-bottom: 32px;
+  }
+
+  /* Encabezado */
+  .login-header {
+    text-align: center;
+    margin-bottom: 40px;
+  }
+  .login-eyebrow {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 10px;
+    letter-spacing: 0.2em;
+    color: var(--sepia-light);
+    opacity: 0.6;
+    text-transform: uppercase;
+    margin-bottom: 12px;
+  }
+  .login-title {
+    font-family: 'Playfair Display', serif;
+    font-size: 42px;
+    font-weight: 700;
+    color: var(--sepia-cream);
+    line-height: 1.05;
+    margin-bottom: 10px;
+  }
+  .login-title em {
+    font-style: italic;
+    color: var(--sepia-light);
+    font-weight: 400;
+  }
+  .login-sub {
+    font-family: 'Crimson Pro', serif;
+    font-style: italic;
+    font-size: 16px;
+    color: var(--sepia-light);
+    opacity: 0.7;
+    line-height: 1.5;
+  }
+
+  /* Separador */
+  .divider {
+    width: 60px;
+    height: 1px;
+    background: linear-gradient(90deg, transparent, var(--gold), transparent);
+    margin: 24px auto;
+  }
+
+  /* Formulario */
+  .login-form {
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+  }
+
+  .field-label {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 9px;
+    letter-spacing: 0.15em;
+    color: var(--sepia-light);
+    text-transform: uppercase;
+    opacity: 0.6;
+    margin-bottom: 8px;
+    display: block;
+  }
+
+  .field-group {
+    display: flex;
+    margin-bottom: 20px;
+  }
+
+  .password-input {
+    flex: 1;
+    padding: 14px 18px;
+    background: rgba(196,168,130,0.06);
+    border: 1px solid rgba(196,168,130,0.2);
+    border-right: none;
+    color: var(--sepia-cream);
+    font-family: 'Crimson Pro', serif;
+    font-size: 18px;
+    letter-spacing: 0.1em;
+    outline: none;
+    transition: border-color 0.2s;
+  }
+  .password-input:focus {
+    border-color: var(--gold);
+    background: rgba(196,168,130,0.09);
+  }
+  .password-input::placeholder {
+    color: var(--sepia-light);
+    opacity: 0.3;
+    letter-spacing: 0.05em;
+    font-style: italic;
+    font-size: 15px;
+  }
+
+  .login-btn {
+    padding: 14px 22px;
+    background: var(--gold);
+    border: 1px solid var(--gold);
+    color: var(--sepia-dark);
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 11px;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    cursor: pointer;
+    transition: background 0.2s;
+    white-space: nowrap;
+  }
+  .login-btn:hover { background: var(--gold-light); }
+
+  /* Error */
+  .error-msg {
+    display: none;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 10px;
+    letter-spacing: 0.1em;
+    color: #c47a7a;
+    text-align: center;
+    margin-top: -12px;
+    margin-bottom: 16px;
+    opacity: 0;
+    transition: opacity 0.3s;
+  }
+  .error-msg.visible {
+    display: block;
+    opacity: 1;
+  }
+
+  /* Nota de privacidad */
+  .privacy-note {
+    text-align: center;
+    margin-top: 32px;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 9px;
+    letter-spacing: 0.1em;
+    color: var(--sepia-light);
+    opacity: 0.35;
+    line-height: 1.8;
+  }
+
+  /* Línea dorada inferior */
+  .bottom-line {
+    position: absolute;
+    bottom: 0; left: 0; right: 0;
+    height: 2px;
+    background: linear-gradient(90deg, transparent, var(--gold), transparent);
+  }
+
+  @keyframes fadeUp {
+    from { opacity: 0; transform: translateY(20px); }
+    to   { opacity: 1; transform: translateY(0); }
+  }
+
+  @keyframes shake {
+    0%, 100% { transform: translateX(0); }
+    20%       { transform: translateX(-8px); }
+    40%       { transform: translateX(8px); }
+    60%       { transform: translateX(-6px); }
+    80%       { transform: translateX(6px); }
+  }
+  .shake { animation: shake 0.4s ease; }
+</style>
+</head>
+<body>
+
+<div class="login-box">
+  <div class="ornament">· · · · ·</div>
+
+  <div class="login-header">
+    <div class="login-eyebrow">Archivo Familiar</div>
+    <div class="login-title">Investigación<br><em>Genealógica</em></div>
+    <div class="divider"></div>
+    <div class="login-sub">Cuatro Familias · Toluca de Lerdo<br>Siglos XVIII — XXI</div>
+  </div>
+
+  <div class="login-form">
+    <label class="field-label" for="pwd">Clave de acceso</label>
+    <div class="field-group">
+      <input
+        class="password-input"
+        id="pwd"
+        type="password"
+        placeholder="Escribe la clave familiar…"
+        autocomplete="off"
+        autofocus
+      >
+      <button class="login-btn" onclick="verificar()">Entrar</button>
+    </div>
+    <div class="error-msg" id="error-msg">
+      ✕ &nbsp; Clave incorrecta
+    </div>
+  </div>
+
+  <div class="privacy-note">
+    Sitio de acceso restringido · Solo para miembros de la familia<br>
+    Si olvidaste la clave escríbele a René
+  </div>
+</div>
+
+<div class="bottom-line"></div>
+
+<script>
+  // ─────────────────────────────────────────────
+  // CONFIGURACIÓN
+  // Cambia esta clave por la que quieras usar.
+  // Puedes usar cualquier palabra, frase o combinación.
+  // Ejemplos: "Toluca1870", "GarciaGomez", "familiaVega"
+  // ─────────────────────────────────────────────
+  const CLAVE = "genealogia2026";
+
+  // Tiempo que dura la sesión en horas (por defecto 72 horas = 3 días)
+  // Después de este tiempo se pide la clave de nuevo
+  const HORAS_SESION = 72;
+
+  // ─────────────────────────────────────────────
+  // LÓGICA — no necesitas modificar nada abajo
+  // ─────────────────────────────────────────────
+
+  // Si ya tiene sesión activa, redirige directo al sitio
+  (function() {
+    const expira = localStorage.getItem('af_expira');
+    if (expira && Date.now() < parseInt(expira)) {
+      window.location.href = 'index.html';
+    }
+  })();
+
+  function verificar() {
+    const input = document.getElementById('pwd');
+    const error = document.getElementById('error-msg');
+    const grupo = document.querySelector('.field-group');
+
+    if (input.value === CLAVE) {
+      // Guardar sesión con expiración
+      const expira = Date.now() + (HORAS_SESION * 60 * 60 * 1000);
+      localStorage.setItem('af_expira', expira.toString());
+      // Redirigir al sitio
+      window.location.href = 'index.html';
+    } else {
+      // Mostrar error con animación
+      error.classList.add('visible');
+      grupo.classList.add('shake');
+      input.value = '';
+      input.focus();
+      setTimeout(() => grupo.classList.remove('shake'), 400);
+      setTimeout(() => error.classList.remove('visible'), 3000);
+    }
+  }
+
+  // Permitir Enter para enviar
+  document.getElementById('pwd').addEventListener('keydown', function(e) {
+    if (e.key === 'Enter') verificar();
+  });
+</script>
+
+</body>
+</html>
