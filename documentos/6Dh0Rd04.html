@@ -6,6 +6,14 @@
 <title>Bautismo Serapio Antonio de Jesús González — Archivo Familiar</title>
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400&family=Crimson+Pro:ital,wght@0,300;0,400;0,500;1,300;1,400&family=JetBrains+Mono:wght@300;400&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="../assets/style.css">
+<script>
+(function(){
+  var expira = localStorage.getItem('af_expira');
+  if (!expira || Date.now() >= parseInt(expira)) {
+    window.location.replace('../acceso.html');
+  }
+})();
+</script>
 </head>
 <body>
 <div class="top-bar">
@@ -34,7 +42,18 @@
   <aside class="sidebar">
     <div class="card">
       <div class="card-header">Imagen del Documento</div>
-      <div class="card-body"><img src="https://drive.google.com/uc?export=view&id=164I-FPVNSTWIvfgzUTzZG6klfoxwQpGY" alt="Bautismo Serapio Antonio de Jesús González" style="width:100%;border:1px solid var(--sepia-mist);margin-bottom:12px;" loading="lazy"></div>
+      <div class="card-body"><a href="https://drive.google.com/file/d/164I-FPVNSTWIvfgzUTzZG6klfoxwQpGY/view?usp=sharing" target="_blank" style="display:block;text-decoration:none;border:none;">
+      <div style="background:var(--sepia-dark);padding:24px 16px;display:flex;flex-direction:column;align-items:center;gap:10px;cursor:pointer;border:1px solid var(--sepia-warm);">
+        <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="var(--sepia-light)" stroke-width="1">
+          <path d="M14 2H6a2 2 0 00-2 2v16a2 2 0 002 2h12a2 2 0 002-2V8z"/>
+          <polyline points="14 2 14 8 20 8"/>
+          <line x1="12" y1="18" x2="12" y2="12"/>
+          <line x1="9" y1="15" x2="15" y2="15"/>
+        </svg>
+        <span style="font-family:'JetBrains Mono',monospace;font-size:10px;color:var(--sepia-light);letter-spacing:.1em;text-transform:uppercase;">Ver documento</span>
+        <span style="font-family:'JetBrains Mono',monospace;font-size:9px;color:var(--sepia-light);opacity:.5;">Abre en Google Drive</span>
+      </div>
+    </a></div>
     </div>
     <div class="card">
       <div class="card-header">Datos del Documento</div>
@@ -75,6 +94,6 @@
     </div>
   </main>
 </div>
-<div class="site-footer">Archivo Familiar · Investigación Genealógica · Documental y Fotográfica · 4 Familias · Generado el 21/03/2026 11:02</div>
+<div class="site-footer">Archivo Familiar · Investigación Genealógica · Documental y Fotográfica · 4 Familias · Generado el 21/03/2026 17:38</div>
 <script src="../assets/search.js"></script>
 </body></html>

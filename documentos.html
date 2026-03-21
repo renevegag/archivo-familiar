@@ -6,6 +6,14 @@
 <title>Documentos — Archivo Familiar</title>
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400&family=Crimson+Pro:ital,wght@0,300;0,400;0,500;1,300;1,400&family=JetBrains+Mono:wght@300;400&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="assets/style.css">
+<script>
+(function(){
+  var expira = localStorage.getItem('af_expira');
+  if (!expira || Date.now() >= parseInt(expira)) {
+    window.location.replace('acceso.html');
+  }
+})();
+</script>
 </head>
 <body>
 <div class="top-bar">
@@ -2251,6 +2259,6 @@
         <div class="doc-titulo"><a href="documentos/1Aa0N006.html">Relación de Diputados del Estado de México y sus Predecesores (1814-2021)</a></div>
         <div class="doc-meta">1Aa0N006 · García Gómez · García (de Figueroa)</div>
       </div>
-    </div></div></div><div class="site-footer">Archivo Familiar · Investigación Genealógica · Documental y Fotográfica · 4 Familias · Generado el 21/03/2026 11:02</div>
+    </div></div></div><div class="site-footer">Archivo Familiar · Investigación Genealógica · Documental y Fotográfica · 4 Familias · Generado el 21/03/2026 17:38</div>
 <script src="assets/search.js"></script>
 </body></html>
