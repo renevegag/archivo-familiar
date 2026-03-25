@@ -2018,9 +2018,9 @@
   {
     "tipo": "persona",
     "id": "VZg0024",
-    "titulo": "Vega, Miguel",
-    "meta": "Vega González · Vega · Siglo XVIII",
-    "texto_busqueda": "Vega, Miguel vega, miguel Vega González Vega VZg0024 Vega, Miguel_h@18_ 18",
+    "titulo": "Vega, Francisca",
+    "meta": "Vega González · Vega · Siglo XIX",
+    "texto_busqueda": "Vega, Francisca vega, francisca Vega González Vega Tlalmanalco, Méx. México. VZg0024 Vega, Francisca_m@19_5 19",
     "url": "personas/VZg0024.html"
   },
   {
@@ -2254,6 +2254,62 @@
     "meta": "Familia Política · García (de Figueroa) · Siglo XIX",
     "texto_busqueda": "Arratia, Matías arratia, matias Familia Política García (de Figueroa) FPa0039-Arratia, Matías_h@19_5 19",
     "url": "personas/FPa0039.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEg0002",
+    "titulo": "Arevalo, Pedro",
+    "meta": "Persona Externa · Vega · Siglo XIX",
+    "texto_busqueda": "Arevalo, Pedro arevalo, pedro Persona Externa Vega Labrador Tlalmanalco, Méx. México PEg0002-Arevalo, Pedro_h@19_5 19",
+    "url": "personas/PEg0002.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEa0010",
+    "titulo": "Baez, Cayetana",
+    "meta": "Persona Externa · García (de Figueroa) · Siglo XIX",
+    "texto_busqueda": "Baez, Cayetana baez, cayetana Persona Externa García (de Figueroa) PEa0010-Baez, Cayetana_m@19_4 19",
+    "url": "personas/PEa0010.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEa0011",
+    "titulo": "Batta, Ramón",
+    "meta": "Persona Externa · García (de Figueroa) · Siglo XX",
+    "texto_busqueda": "Batta, Ramón batta, ramon Persona Externa García (de Figueroa) Presbítero PEa0011-Batta, Ramón_h@20_1 20",
+    "url": "personas/PEa0011.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "FPg0014",
+    "titulo": "Becerra, Santiago",
+    "meta": "Familia Política · Vega · Siglo XIX",
+    "texto_busqueda": "Becerra, Santiago becerra, santiago Familia Política Vega FPg0014-Becerra, Santiago_h@19_6 19",
+    "url": "personas/FPg0014.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "FPg0015",
+    "titulo": "Moreno, Clara",
+    "meta": "Familia Política · Vega · Siglo XIX",
+    "texto_busqueda": "Moreno, Clara moreno, clara Familia Política Vega FPg0015-Moreno, Clara_m@19_6 19",
+    "url": "personas/FPg0015.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "FPg0016",
+    "titulo": "Becerra, Simón",
+    "meta": "Familia Política · Vega · Siglo XIX",
+    "texto_busqueda": "Becerra, Simón becerra, simon Familia Política Vega FPg0016-Becerra, Simón_h@19_5 19",
+    "url": "personas/FPg0016.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEa0012",
+    "titulo": "Beltrán, Alfonso",
+    "meta": "Persona Externa · García (de Figueroa) · Siglo XX",
+    "texto_busqueda": "Beltrán, Alfonso beltran, alfonso Persona Externa García (de Figueroa) PEa0012-Beltrán, Alfonso_h@20_2 20",
+    "url": "personas/PEa0012.html"
   },
   {
     "tipo": "documento",
