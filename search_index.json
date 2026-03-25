@@ -514,9 +514,9 @@
   {
     "tipo": "persona",
     "id": "FPg0011",
-    "titulo": "Reimer, Vanessa",
+    "titulo": "Reimer Rempel, Vanessa Anne",
     "meta": "Familia Política · Vega · Siglo XX",
-    "texto_busqueda": "Reimer, Vanessa reimer, vanessa Familia Política Vega FPg0011-Reimer, Vanessa_m@20_0 20",
+    "texto_busqueda": "Reimer Rempel, Vanessa Anne reimer rempel, vanessa anne Familia Política Vega FPg0011-Reimer Rempel, Vanessa Anne_m@20_0 20",
     "url": "personas/FPg0011.html"
   },
   {
@@ -732,7 +732,7 @@
     "id": "GGa0025",
     "titulo": "Moreno Bobadilla, Atanacio de la Cruz",
     "meta": "García Gómez · García (de Figueroa) · Siglo XVIII",
-    "texto_busqueda": "Moreno Bobadilla, Atanacio de la Cruz moreno bobadilla, atanacio de la cruz García Gómez García (de Figueroa) Santa María Nativitas, Calimaya, México. - GGa0025 Moreno Bobadilla, Atanacio de la Cruz_h@18_ 18",
+    "texto_busqueda": "Moreno Bobadilla, Atanacio de la Cruz moreno bobadilla, atanacio de la cruz García Gómez García (de Figueroa) Santa María Nativitas, Calimaya, México. GGa0025 Moreno Bobadilla, Atanacio de la Cruz_h@18_ 18",
     "url": "personas/GGa0025.html"
   },
   {
@@ -740,7 +740,7 @@
     "id": "GGa0026",
     "titulo": "Moreno Bobadilla, José Francisco Balbino",
     "meta": "García Gómez · García (de Figueroa) · Siglo XIX",
-    "texto_busqueda": "Moreno Bobadilla, José Francisco Balbino moreno bobadilla, jose francisco balbino García Gómez García (de Figueroa) GGa0026 Moreno Bobadilla, José Francisco Balbino_h@19_ 19",
+    "texto_busqueda": "Moreno Bobadilla, José Francisco Balbino moreno bobadilla, jose francisco balbino García Gómez García (de Figueroa) GGa0026 Moreno Bobadilla, José Francisco Balbino_h@19_5 19",
     "url": "personas/GGa0026.html"
   },
   {
@@ -2182,6 +2182,78 @@
     "meta": "Persona Externa · Vega · Siglo XIX",
     "texto_busqueda": "José Santiago jose santiago Persona Externa Vega Jornalero San Juan Atzacualoya, Tlalmanalco, Méx. México. PEg0001-José Santiago_h@19_5 19",
     "url": "personas/PEg0001.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "GGa0042",
+    "titulo": "Moreno Ruíz, Silvestre Sabino",
+    "meta": "García Gómez · García (de Figueroa) · Siglo XIX",
+    "texto_busqueda": "Moreno Ruíz, Silvestre Sabino moreno ruiz, silvestre sabino García Gómez García (de Figueroa) Santa María Nativitas, Calimaya, Méx. México. GGa0042 Moreno Ruíz, Silvestre Sabino_h@19_4 19",
+    "url": "personas/GGa0042.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "GGa0043",
+    "titulo": "Moreno, Rodrígo",
+    "meta": "García Gómez · García (de Figueroa) · Siglo XIX",
+    "texto_busqueda": "Moreno, Rodrígo moreno, rodrigo García Gómez García (de Figueroa) GGa0043 Moreno, Rodrígo_h@19_4 19",
+    "url": "personas/GGa0043.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEa0006",
+    "titulo": "Alcántara C, Roberto",
+    "meta": "Persona Externa · García (de Figueroa) · Siglo XX",
+    "texto_busqueda": "Alcántara C, Roberto alcantara c, roberto Persona Externa García (de Figueroa) PEa0006-Alcántara C, Roberto_m@_2 20",
+    "url": "personas/PEa0006.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEa0005",
+    "titulo": "Alarcón, Juana María",
+    "meta": "Persona Externa · García (de Figueroa) · Siglo XIX",
+    "texto_busqueda": "Alarcón, Juana María alarcon, juana maria Persona Externa García (de Figueroa) PEa0005-Alarcón, Juana María_m@19_4 19",
+    "url": "personas/PEa0005.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "GGa0044",
+    "titulo": "Alvear García, José",
+    "meta": "García Gómez · García (de Figueroa) · Siglo XX",
+    "texto_busqueda": "Alvear García, José alvear garcia, jose García Gómez García (de Figueroa) GGa0044 Alvear García, José_h@20_2 20",
+    "url": "personas/GGa0044.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEa0007",
+    "titulo": "Arellano",
+    "meta": "Persona Externa · García (de Figueroa) · Siglo XIX",
+    "texto_busqueda": "Arellano arellano Persona Externa García (de Figueroa) Sacerdote PEa0007-Arellano, Padre_h@19_4 19",
+    "url": "personas/PEa0007.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEa0008",
+    "titulo": "Arévalo, Francísco",
+    "meta": "Persona Externa · García (de Figueroa) · Siglo XIX",
+    "texto_busqueda": "Arévalo, Francísco arevalo, francisco Persona Externa García (de Figueroa) Ingeniero Civil PEa0008-Arévalo, Francísco_h@19_3 19",
+    "url": "personas/PEa0008.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEa0009",
+    "titulo": "Arias, José Buenaventura",
+    "meta": "Persona Externa · García (de Figueroa) · Siglo XIX",
+    "texto_busqueda": "Arias, José Buenaventura arias, jose buenaventura Persona Externa García (de Figueroa) Párroco PEa0009-Arias, José Buenaventura_h@19_5 19",
+    "url": "personas/PEa0009.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "FPa0039",
+    "titulo": "Arratia, Matías",
+    "meta": "Familia Política · García (de Figueroa) · Siglo XIX",
+    "texto_busqueda": "Arratia, Matías arratia, matias Familia Política García (de Figueroa) FPa0039-Arratia, Matías_h@19_5 19",
+    "url": "personas/FPa0039.html"
   },
   {
     "tipo": "documento",
