@@ -1836,7 +1836,7 @@
     "id": "VZg0001",
     "titulo": "Vega, María Ancelma",
     "meta": "Vega González · Vega · Siglo XIX",
-    "texto_busqueda": "Vega, María Ancelma vega, maria ancelma Vega González Vega San Juan Atzacualoya, Tlalmanalco, Méx. México. San Juan Atzacualoya, Tlalmanalco, Méx. México. VZg0001 Vega, María Ancelma _m@19_ 19",
+    "texto_busqueda": "Vega, María Ancelma vega, maria ancelma Vega González Vega San Juan Atzacualoya, Tlalmanalco, Méx. México. San Juan Atzacualoya, Tlalmanalco, Méx. México. VZg0001 Vega, María Ancelma _m@19_4 19",
     "url": "personas/VZg0001.html"
   },
   {
@@ -1948,7 +1948,7 @@
     "id": "VZg0015",
     "titulo": "Vega Beltrán, Felipe Herminio",
     "meta": "Vega González · Vega · Siglo XIX",
-    "texto_busqueda": "Vega Beltrán, Felipe Herminio vega beltran, felipe herminio Vega González Vega VZg0015 Vega Beltrán, Felipe Herminio_h@19_ 19",
+    "texto_busqueda": "Vega Beltrán, Felipe Herminio vega beltran, felipe herminio Vega González Vega San Juan Atzacualoya, Tlalmanalco, Méx. México. San Juan Atzacualoya, Tlalmanalco, Méx. México. VZg0015 Vega Beltrán, Felipe Herminio_h@19_ 19",
     "url": "personas/VZg0015.html"
   },
   {
@@ -2012,15 +2012,15 @@
     "id": "VZg0023",
     "titulo": "Vega, Guillermo José Apolonio",
     "meta": "Vega González · Vega · Siglo XIX",
-    "texto_busqueda": "Vega, Guillermo José Apolonio vega, guillermo jose apolonio Vega, José Apolonio Vega González Vega VZg0023 Vega, Guillermo (José) Apolonio_h@19_ 19",
+    "texto_busqueda": "Vega, Guillermo José Apolonio vega, guillermo jose apolonio Vega, José Apolonio Vega González Vega VZg0023 Vega, Guillermo (José) Apolonio_h@19_4 19",
     "url": "personas/VZg0023.html"
   },
   {
     "tipo": "persona",
     "id": "VZg0024",
-    "titulo": "Vega, Francisca",
-    "meta": "Vega González · Vega · Siglo XIX",
-    "texto_busqueda": "Vega, Francisca vega, francisca Vega González Vega Tlalmanalco, Méx. México. VZg0024 Vega, Francisca_m@19_5 19",
+    "titulo": "Vega, Miguel",
+    "meta": "Vega González · Vega · Siglo XVIII",
+    "texto_busqueda": "Vega, Miguel vega, miguel Vega González Vega VZg0024 Vega, Miguel_h@18_6 18",
     "url": "personas/VZg0024.html"
   },
   {
@@ -2298,9 +2298,9 @@
   {
     "tipo": "persona",
     "id": "FPg0016",
-    "titulo": "Becerra, Simón",
+    "titulo": "Becerra Moreno, Simón",
     "meta": "Familia Política · Vega · Siglo XIX",
-    "texto_busqueda": "Becerra, Simón becerra, simon Familia Política Vega FPg0016-Becerra, Simón_h@19_5 19",
+    "texto_busqueda": "Becerra Moreno, Simón becerra moreno, simon Familia Política Vega FPg0016-Becerra, Simón_h@19_5 19",
     "url": "personas/FPg0016.html"
   },
   {
@@ -2310,6 +2310,38 @@
     "meta": "Persona Externa · García (de Figueroa) · Siglo XX",
     "texto_busqueda": "Beltrán, Alfonso beltran, alfonso Persona Externa García (de Figueroa) PEa0012-Beltrán, Alfonso_h@20_2 20",
     "url": "personas/PEa0012.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "VZg0025",
+    "titulo": "Vega, Francisca",
+    "meta": "Vega González · Vega · Siglo XIX",
+    "texto_busqueda": "Vega, Francisca vega, francisca Vega González Vega Tlalmanalco, Méx. México. VZg0024 Vega, Francisca_m@19_5 19",
+    "url": "personas/VZg0025.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "VZg0026",
+    "titulo": "Beltrán, Epifanio",
+    "meta": "Vega González · Vega · Siglo XIX",
+    "texto_busqueda": "Beltrán, Epifanio beltran, epifanio Vega González Vega VZg0026 Beltrán, Epifanio_h@19_3 19",
+    "url": "personas/VZg0026.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "VZg0027",
+    "titulo": "Beltrán, Vicenta",
+    "meta": "Vega González · Vega · Siglo XIX",
+    "texto_busqueda": "Beltrán, Vicenta beltran, vicenta Vega González Vega VZg0027 Beltrán, Vicenta_m@19_3 19",
+    "url": "personas/VZg0027.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "VZg0028",
+    "titulo": "Beltrán Domínguez, Cipriana",
+    "meta": "Vega González · Vega · Siglo XIX",
+    "texto_busqueda": "Beltrán Domínguez, Cipriana beltran dominguez, cipriana Vega González Vega San Juan Atzacualoya, Tlalmanalco, Méx. México. VZg0028 Beltrán Domínguez, Cipriana_m@19_4 19",
+    "url": "personas/VZg0028.html"
   },
   {
     "tipo": "documento",
