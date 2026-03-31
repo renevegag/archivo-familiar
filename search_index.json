@@ -2344,6 +2344,78 @@
     "url": "personas/VZg0028.html"
   },
   {
+    "tipo": "persona",
+    "id": "PEa0013",
+    "titulo": "Bernal, Francisca",
+    "meta": "Persona Externa · García (de Figueroa) · Siglo XIX",
+    "texto_busqueda": "Bernal, Francisca bernal, francisca Persona Externa García (de Figueroa) PEa0013-Bernal, Francisca_m@19_4 19",
+    "url": "personas/PEa0013.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEc0001",
+    "titulo": "Bernal, Julia",
+    "meta": "Persona Externa · Mondragón · Siglo XIX",
+    "texto_busqueda": "Bernal, Julia bernal, julia Persona Externa Mondragón PEc0001-Bernal, Julia_m@_3 19",
+    "url": "personas/PEc0001.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "FPa0040",
+    "titulo": "Blanquel, María de la Luz",
+    "meta": "Familia Política · García (de Figueroa) · Siglo XIX",
+    "texto_busqueda": "Blanquel, María de la Luz blanquel, maria de la luz Familia Política García (de Figueroa) FPa0040-Blanquel, María de la Luz_m@19_5 19",
+    "url": "personas/FPa0040.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEa0015",
+    "titulo": "Blanquel, Rafael",
+    "meta": "Persona Externa · García (de Figueroa) · Siglo XIX",
+    "texto_busqueda": "Blanquel, Rafael blanquel, rafael Persona Externa García (de Figueroa) Carpintero PEa0015-Blanquel, Rafael_h@19_ 19",
+    "url": "personas/PEa0015.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEa0016",
+    "titulo": "Blanquel, Cornelia",
+    "meta": "Persona Externa · García (de Figueroa) · Siglo XVIII",
+    "texto_busqueda": "Blanquel, Cornelia blanquel, cornelia Persona Externa García (de Figueroa) PEa0016-Blanquel, Cornelia_m@18_5 18",
+    "url": "personas/PEa0016.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEa0017",
+    "titulo": "Bobadilla, Santa",
+    "meta": "Persona Externa · García (de Figueroa) · Siglo XIX",
+    "texto_busqueda": "Bobadilla, Santa bobadilla, santa Persona Externa García (de Figueroa) PEa0017-Bobadilla, Santa_m@19_4 19",
+    "url": "personas/PEa0017.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEb0003",
+    "titulo": "Bojorquez, Jesús María",
+    "meta": "Persona Externa · Gómez · Siglo XIX",
+    "texto_busqueda": "Bojorquez, Jesús María bojorquez, jesus maria Persona Externa Gómez Cura PEb0003-Bojorquez, Jesús María_h@19_4 19",
+    "url": "personas/PEb0003.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "FPb0007",
+    "titulo": "Briseño, José",
+    "meta": "Familia Política · Gómez · Siglo XIX",
+    "texto_busqueda": "Briseño, José briseno, jose Familia Política Gómez FPb0007-Briseño, José_h@19_3 19",
+    "url": "personas/FPb0007.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "GGb0017",
+    "titulo": "Gómez, Rosa",
+    "meta": "García Gómez · Gómez · Siglo XIX",
+    "texto_busqueda": "Gómez, Rosa gomez, rosa García Gómez Gómez GGb0017 Gómez, Rosa_m@19_3 19",
+    "url": "personas/GGb0017.html"
+  },
+  {
     "tipo": "documento",
     "id": "1Aa0N001",
     "titulo": "EL PODER LEGISLATIVO DEL ESTADO DE MÉXICO EN EL SIGLO XIX Y EN LOS ALBORES DEL SIGLO XX, ÍNDICE DE DECRETOS",
