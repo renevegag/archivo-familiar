@@ -268,7 +268,7 @@
     "id": "FPa0034",
     "titulo": "Nájera Camacho, León",
     "meta": "Familia Política · García (de Figueroa) · Siglo XIX",
-    "texto_busqueda": "Nájera Camacho, León najera camacho, leon Familia Política García (de Figueroa) FPa0034-Nájera Camacho, León_h@19_ 19",
+    "texto_busqueda": "Nájera Camacho, León najera camacho, leon Familia Política García (de Figueroa) FPa0034-Nájera Camacho, León_h@19_4 19",
     "url": "personas/FPa0034.html"
   },
   {
@@ -756,7 +756,7 @@
     "id": "GGa0028",
     "titulo": "Moreno Ruíz, Encarnación",
     "meta": "García Gómez · García (de Figueroa) · Siglo XIX",
-    "texto_busqueda": "Moreno Ruíz, Encarnación moreno ruiz, encarnacion García Gómez García (de Figueroa) GGa0028 Moreno Ruiz, Encarnación_h@19_ 19",
+    "texto_busqueda": "Moreno Ruíz, Encarnación moreno ruiz, encarnacion García Gómez García (de Figueroa) GGa0028 Moreno Ruiz, Encarnación_h@19_4 19",
     "url": "personas/GGa0028.html"
   },
   {
@@ -764,7 +764,7 @@
     "id": "GGa0029",
     "titulo": "Moreno Ruíz, María Manuela de la Trinidad",
     "meta": "García Gómez · García (de Figueroa) · Siglo XIX",
-    "texto_busqueda": "Moreno Ruíz, María Manuela de la Trinidad moreno ruiz, maria manuela de la trinidad García Gómez García (de Figueroa) Santa María Nativitas, Calimaya, México Toluca, México GGa0029 Moreno Ruíz, María Manuela de la Trinidad_m@19_ 19",
+    "texto_busqueda": "Moreno Ruíz, María Manuela de la Trinidad moreno ruiz, maria manuela de la trinidad García Gómez García (de Figueroa) Santa María Nativitas, Calimaya, México Toluca, México GGa0029 Moreno Ruíz, María Manuela de la Trinidad_m@19_4 19",
     "url": "personas/GGa0029.html"
   },
   {
@@ -772,7 +772,7 @@
     "id": "GGa0030",
     "titulo": "Moreno, Pablo José",
     "meta": "García Gómez · García (de Figueroa) · Siglo XVIII",
-    "texto_busqueda": "Moreno, Pablo José moreno, pablo jose García Gómez García (de Figueroa) Santa María Nativitas, Calimaya, México Santa María Nativitas, Calimaya, México GGa0030 Moreno, Pablo José_h@18_ 18",
+    "texto_busqueda": "Moreno, Pablo José moreno, pablo jose García Gómez García (de Figueroa) Santa María Nativitas, Calimaya, México Santa María Nativitas, Calimaya, México GGa0030 Moreno, Pablo José_h@18_6 18",
     "url": "personas/GGa0030.html"
   },
   {
@@ -780,7 +780,7 @@
     "id": "GGa0031",
     "titulo": "Nájera Moreno, María",
     "meta": "García Gómez · García (de Figueroa) · Siglo XIX",
-    "texto_busqueda": "Nájera Moreno, María najera moreno, maria García Gómez García (de Figueroa) GGa0031 Nájera Moreno, María_m@19_ 19",
+    "texto_busqueda": "Nájera Moreno, María najera moreno, maria García Gómez García (de Figueroa) GGa0031 Nájera Moreno, María_m@19_3 19",
     "url": "personas/GGa0031.html"
   },
   {
@@ -2414,6 +2414,78 @@
     "meta": "García Gómez · Gómez · Siglo XIX",
     "texto_busqueda": "Gómez, Rosa gomez, rosa García Gómez Gómez GGb0017 Gómez, Rosa_m@19_3 19",
     "url": "personas/GGb0017.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEa0018",
+    "titulo": "Bulman, José Francisco",
+    "meta": "Persona Externa · García (de Figueroa) · Siglo XIX",
+    "texto_busqueda": "Bulman, José Francisco bulman, jose francisco Persona Externa García (de Figueroa) Abogado PEa0018-Bulman, José Francisco_h@19_4 19",
+    "url": "personas/PEa0018.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEa0019",
+    "titulo": "Camacho, Anselmo",
+    "meta": "Persona Externa · García (de Figueroa) · Siglo XIX",
+    "texto_busqueda": "Camacho, Anselmo camacho, anselmo Persona Externa García (de Figueroa) Ingeniero Civil PEa0019-Camacho, Anselmo_h@19_4 19",
+    "url": "personas/PEa0019.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "GGa0045",
+    "titulo": "Moreno Ruíz, Josefa Alejandra",
+    "meta": "García Gómez · García (de Figueroa) · Siglo XIX",
+    "texto_busqueda": "Moreno Ruíz, Josefa Alejandra moreno ruiz, josefa alejandra García Gómez García (de Figueroa) Santa María Nativitas, Calimaya, Méx. México. GGa0045 Moreno Ruíz, Josefa Alejandra_m@19_4 19",
+    "url": "personas/GGa0045.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "GGa0046",
+    "titulo": "Moreno Ruíz, Juan Germán Antonio de Jesús",
+    "meta": "García Gómez · García (de Figueroa) · Siglo XIX",
+    "texto_busqueda": "Moreno Ruíz, Juan Germán Antonio de Jesús moreno ruiz, juan german antonio de jesus García Gómez García (de Figueroa) GGa0046 Moreno Ruíz, Juan Germán Antonio de Jesús_h@19_4 19",
+    "url": "personas/GGa0046.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEa0020",
+    "titulo": "Camacho, Joaquín",
+    "meta": "Persona Externa · García (de Figueroa) · Siglo XIX",
+    "texto_busqueda": "Camacho, Joaquín camacho, joaquin Persona Externa García (de Figueroa) Bachiller PEa0020-Camacho, Joaquín_h@19_4 19",
+    "url": "personas/PEa0020.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "FPa0041",
+    "titulo": "Camacho, Urbana",
+    "meta": "Familia Política · García (de Figueroa) · Siglo XIX",
+    "texto_busqueda": "Camacho, Urbana camacho, urbana Familia Política García (de Figueroa) FPa0041-Camacho, Urbana_m@19_4 19",
+    "url": "personas/FPa0041.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "FPa0042",
+    "titulo": "Nájera, Atanacio",
+    "meta": "Familia Política · García (de Figueroa) · Siglo XIX",
+    "texto_busqueda": "Nájera, Atanacio najera, atanacio Familia Política García (de Figueroa) FPa0042-Nájera, Atanacio_h@19_4 19",
+    "url": "personas/FPa0042.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "GGa0047",
+    "titulo": "Nájera Moreno, Tomasa",
+    "meta": "García Gómez · García (de Figueroa) · Siglo XIX",
+    "texto_busqueda": "Nájera Moreno, Tomasa najera moreno, tomasa García Gómez García (de Figueroa) Toluca, Méx. México. GGa0047 Nájera Moreno, Tomasa_m@19_3 19",
+    "url": "personas/GGa0047.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEa0014",
+    "titulo": "Blanco, Emilia",
+    "meta": "Persona Externa · García (de Figueroa) · Siglo XIX",
+    "texto_busqueda": "Blanco, Emilia blanco, emilia Persona Externa García (de Figueroa) PEa0014-Blanco, Emilia_m@19_3 19",
+    "url": "personas/PEa0014.html"
   },
   {
     "tipo": "documento",
