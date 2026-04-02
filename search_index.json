@@ -682,9 +682,9 @@
   {
     "tipo": "persona",
     "id": "GGa0019",
-    "titulo": "García, Carlos",
+    "titulo": "Carmona, Severino",
     "meta": "García Gómez · García (de Figueroa) · Siglo XIX",
-    "texto_busqueda": "García, Carlos garcia, carlos García Gómez García (de Figueroa) GGa0019 García, Carlos_h@19_ 19",
+    "texto_busqueda": "Carmona, Severino carmona, severino García Gómez García (de Figueroa) Cantero Toluca, Méx. México. GGa0019 Carmona, Severino_h@19_4 19",
     "url": "personas/GGa0019.html"
   },
   {
@@ -2486,6 +2486,46 @@
     "meta": "Persona Externa · García (de Figueroa) · Siglo XIX",
     "texto_busqueda": "Blanco, Emilia blanco, emilia Persona Externa García (de Figueroa) PEa0014-Blanco, Emilia_m@19_3 19",
     "url": "personas/PEa0014.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "GGb0018",
+    "titulo": "Carmona, Jesús",
+    "meta": "García Gómez · Gómez · Siglo XIX",
+    "texto_busqueda": "Carmona, Jesús carmona, jesus García Gómez Gómez Cantero Toluca, Méx. México. GGb0018 Carmona, Jesús_h@19_4 19",
+    "url": "personas/GGb0018.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "GGb0020",
+    "titulo": "Carmona, Simón",
+    "meta": "García Gómez · Gómez · Siglo XIX",
+    "texto_busqueda": "Carmona, Simón carmona, simon García Gómez Gómez Comerciante Toluca, Méx. México. GGb0020 Carmona, Simón_h@19_4 19",
+    "url": "personas/GGb0020.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEa0021",
+    "titulo": "Carrillo, Z",
+    "meta": "Persona Externa · García (de Figueroa) · Siglo XIX",
+    "texto_busqueda": "Carrillo, Z carrillo, z Persona Externa García (de Figueroa) Toluca, Méx. México. PEa0021-Carrillo, Z_h@19_4 19",
+    "url": "personas/PEa0021.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEg0003",
+    "titulo": "Casáles, Pánfilo",
+    "meta": "Persona Externa · Vega · Siglo XIX",
+    "texto_busqueda": "Casáles, Pánfilo casales, panfilo Persona Externa Vega PEg0003-Casáles, Pánfilo_h@19_4 19",
+    "url": "personas/PEg0003.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEb0004",
+    "titulo": "Casares, José María",
+    "meta": "Persona Externa · Gómez · Siglo XIX",
+    "texto_busqueda": "Casares, José María casares, jose maria Persona Externa Gómez Toluca, Méx. México. PEb0004-Casares, José María_h@19_4 19",
+    "url": "personas/PEb0004.html"
   },
   {
     "tipo": "documento",
