@@ -682,9 +682,9 @@
   {
     "tipo": "persona",
     "id": "GGa0019",
-    "titulo": "Carmona, Severino",
-    "meta": "García Gómez · Gómez · Siglo XIX",
-    "texto_busqueda": "Carmona, Severino carmona, severino García Gómez Gómez Cantero Toluca, Méx. México. GGa0019 Carmona, Severino_h@19_4 19",
+    "titulo": "García, Carlos",
+    "meta": "García Gómez · García (de Figueroa) · Siglo XIX",
+    "texto_busqueda": "García, Carlos garcia, carlos García Gómez García (de Figueroa) GGa0019 García, Carlos_h@19_ 19",
     "url": "personas/GGa0019.html"
   },
   {
@@ -2526,6 +2526,62 @@
     "meta": "Persona Externa · Gómez · Siglo XIX",
     "texto_busqueda": "Casares, José María casares, jose maria Persona Externa Gómez Toluca, Méx. México. PEb0004-Casares, José María_h@19_4 19",
     "url": "personas/PEb0004.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "NCf0010",
+    "titulo": "Chávez, Emilio",
+    "meta": "Núñez Chávez · Chávez · Siglo XIX",
+    "texto_busqueda": "Chávez, Emilio chavez, emilio Núñez Chávez Chávez NCf0010 Chávez, Emilio_h@19_2 19",
+    "url": "personas/NCf0010.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "NCf0011",
+    "titulo": "Chávez, Josefina",
+    "meta": "Núñez Chávez · Chávez · Siglo XIX",
+    "texto_busqueda": "Chávez, Josefina chavez, josefina Núñez Chávez Chávez NCf0011 Chávez, Josefina_m@19_2 19",
+    "url": "personas/NCf0011.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "NCf0012",
+    "titulo": "Chávez Benítez, Josefa Ysabel",
+    "meta": "Núñez Chávez · Chávez · Siglo XX",
+    "texto_busqueda": "Chávez Benítez, Josefa Ysabel chavez benitez, josefa ysabel Núñez Chávez Chávez La Palma, Nopala de Villagrán, Hgo. México. NCf0012 Chávez Benítez, Josefa Ysabel_m@20_3 20",
+    "url": "personas/NCf0012.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEa0022",
+    "titulo": "Cerda, Alfonso",
+    "meta": "Persona Externa · García (de Figueroa) · Siglo XIX",
+    "texto_busqueda": "Cerda, Alfonso cerda, alfonso Persona Externa García (de Figueroa) PEa0022-Cerda, Alfonso_h@19_3 19",
+    "url": "personas/PEa0022.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEa0023",
+    "titulo": "Chávez, Ángel",
+    "meta": "Persona Externa · García (de Figueroa) · Siglo XX",
+    "texto_busqueda": "Chávez, Ángel chavez, angel Persona Externa García (de Figueroa) PEa0023-Chávez, Ángel_h@20_2 20",
+    "url": "personas/PEa0023.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEg0004",
+    "titulo": "Chico, Servanda",
+    "meta": "Persona Externa · Vega · Siglo XIX",
+    "texto_busqueda": "Chico, Servanda chico, servanda Persona Externa Vega PEg0004-Chico, Servanda_m@19_4 19",
+    "url": "personas/PEg0004.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "VZh0010",
+    "titulo": "Silva, María Coleta",
+    "meta": "Vega González · González · Siglo XIX",
+    "texto_busqueda": "Silva, María Coleta silva, maria coleta Vega González González VZh0010 Silva, María Coleta_m@19_4 19",
+    "url": "personas/VZh0010.html"
   },
   {
     "tipo": "documento",
