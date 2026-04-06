@@ -2036,7 +2036,7 @@
     "id": "VZh0002",
     "titulo": "De Hita, Soledad",
     "meta": "Vega González · González · Siglo XIX",
-    "texto_busqueda": "De Hita, Soledad de hita, soledad Jiménez, Soledad Vega González González VZh0002 De Hita, Soledad_m@19_5 19",
+    "texto_busqueda": "De Hita, Soledad de hita, soledad Jiménez, Soledad Vega González González Zentlalpan, Amecameca, Méx. México. Zentlalpan, Amecameca, Méx. México. VZh0002 De Hita, Soledad_m@19_5 19",
     "url": "personas/VZh0002.html"
   },
   {
@@ -2582,6 +2582,110 @@
     "meta": "Vega González · González · Siglo XIX",
     "texto_busqueda": "Silva, María Coleta silva, maria coleta Vega González González VZh0010 Silva, María Coleta_m@19_4 19",
     "url": "personas/VZh0010.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEa0024",
+    "titulo": "Colón, Remedios",
+    "meta": "Persona Externa · García (de Figueroa) · Siglo XX",
+    "texto_busqueda": "Colón, Remedios colon, remedios Persona Externa García (de Figueroa) PEa0024-Colón, Remedios_m@20_2 20",
+    "url": "personas/PEa0024.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEa0025",
+    "titulo": "Cossío, Agustín",
+    "meta": "Persona Externa · García (de Figueroa) · Siglo XIX",
+    "texto_busqueda": "Cossío, Agustín cossio, agustin Persona Externa García (de Figueroa) PEa0025-Cossío, Agustín_h@19_4 19",
+    "url": "personas/PEa0025.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEa0026",
+    "titulo": "De Arias, José Buenaventura",
+    "meta": "Persona Externa · García (de Figueroa) · Siglo XVIII",
+    "texto_busqueda": "De Arias, José Buenaventura de arias, jose buenaventura Persona Externa García (de Figueroa) Bachiller, Cura PEa0026-De Arias, José Buenaventura_h@18_6 18",
+    "url": "personas/PEa0026.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEh0001",
+    "titulo": "De Armas, José Mariano",
+    "meta": "Persona Externa · González · Siglo XIX",
+    "texto_busqueda": "De Armas, José Mariano de armas, jose mariano Persona Externa González Cura PEh0001-De Armas, José Mariano_h@19_4 19",
+    "url": "personas/PEh0001.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEa0027",
+    "titulo": "De La Portilla, Domingo",
+    "meta": "Persona Externa · García (de Figueroa) · Siglo XIX",
+    "texto_busqueda": "De La Portilla, Domingo de la portilla, domingo Persona Externa García (de Figueroa) PEa0027-De La Portilla, Domingo_h@19_3 19",
+    "url": "personas/PEa0027.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEg0005",
+    "titulo": "De La Rosa, Pascual",
+    "meta": "Persona Externa · Vega · Siglo XIX",
+    "texto_busqueda": "De La Rosa, Pascual de la rosa, pascual Persona Externa Vega PEg0005- De La Rosa, Pascual_h@19_5 19",
+    "url": "personas/PEg0005.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEa0028",
+    "titulo": "De La Torre, José María",
+    "meta": "Persona Externa · García (de Figueroa) · Siglo XVIII",
+    "texto_busqueda": "De La Torre, José María de la torre, jose maria Persona Externa García (de Figueroa) Cura Párroco PEa0028-De La Torre, José María_h@18_6 18",
+    "url": "personas/PEa0028.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEa0029",
+    "titulo": "De Silvestre y Olivares, Juan Aniceto",
+    "meta": "Persona Externa · García (de Figueroa) · Siglo XVIII",
+    "texto_busqueda": "De Silvestre y Olivares, Juan Aniceto de silvestre y olivares, juan aniceto Persona Externa García (de Figueroa) Cura Párroco PEa0029-De Silvestre y Olivares, Juan Aniceto_h@18_6 18",
+    "url": "personas/PEa0029.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEg0006",
+    "titulo": "Desilier, Braulio",
+    "meta": "Persona Externa · Vega · Siglo XIX",
+    "texto_busqueda": "Desilier, Braulio desilier, braulio Persona Externa Vega Cura Párroco PEg0006-Desilier, Braulio_h@19_5 19",
+    "url": "personas/PEg0006.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEh0002",
+    "titulo": "Díaz, Margarita",
+    "meta": "Persona Externa · González · Siglo XIX",
+    "texto_busqueda": "Díaz, Margarita diaz, margarita Persona Externa González Cura Párroco PEh0002-Díaz, Margarita_m@19_3 19",
+    "url": "personas/PEh0002.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEa0030",
+    "titulo": "Díaz, Teodoro",
+    "meta": "Persona Externa · García (de Figueroa) · Siglo XIX",
+    "texto_busqueda": "Díaz, Teodoro diaz, teodoro Persona Externa García (de Figueroa) Cura PEa0030-Díaz, Teodoro_h@19_3 19",
+    "url": "personas/PEa0030.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEa0031",
+    "titulo": "Díaz Gónzález, Prisciliano",
+    "meta": "Persona Externa · García (de Figueroa) · Siglo XIX",
+    "texto_busqueda": "Díaz Gónzález, Prisciliano diaz gonzalez, prisciliano Persona Externa García (de Figueroa) Abogado PEa0031-Díaz Gónzález, Prisciliano_h@19_3 19",
+    "url": "personas/PEa0031.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "GGb0019",
+    "titulo": "Carmona, Severino",
+    "meta": "García Gómez · Gómez · Siglo XIX",
+    "texto_busqueda": "Carmona, Severino carmona, severino García Gómez Gómez Cantero Toluca, Méx. México. GGb0019 Carmona, Severino_h@19_4 19",
+    "url": "personas/GGb0019.html"
   },
   {
     "tipo": "documento",
