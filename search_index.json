@@ -2028,7 +2028,7 @@
     "id": "VZh0001",
     "titulo": "Milla, Marlene",
     "meta": "Vega Mondragón · González · Siglo XX",
-    "texto_busqueda": "Milla, Marlene milla, marlene Vega Mondragón González Amecameca, Méx. México VMh0001 Milla, Marlene_m@20_0 20",
+    "texto_busqueda": "Milla, Marlene milla, marlene Vega Mondragón González Amecameca, Méx. México VZh0001 Milla, Marlene_m@20_0 20",
     "url": "personas/VZh0001.html"
   },
   {
@@ -2628,7 +2628,7 @@
     "id": "PEg0005",
     "titulo": "De La Rosa, Pascual",
     "meta": "Persona Externa · Vega · Siglo XIX",
-    "texto_busqueda": "De La Rosa, Pascual de la rosa, pascual Persona Externa Vega PEg0005- De La Rosa, Pascual_h@19_5 19",
+    "texto_busqueda": "De La Rosa, Pascual de la rosa, pascual Persona Externa Vega PEg0005-De La Rosa, Pascual_h@19_5 19",
     "url": "personas/PEg0005.html"
   },
   {
@@ -2699,8 +2699,8 @@
     "tipo": "persona",
     "id": "VZg0029",
     "titulo": "Vega, José",
-    "meta": "Vega González · Vega · —",
-    "texto_busqueda": "Vega, José vega, jose Vega González Vega San Juan Atzacualoya, Tlalmanalco, Méx. México. VZg0029 Vega, José_h@_6",
+    "meta": "Vega González · Vega · Siglo XIX",
+    "texto_busqueda": "Vega, José vega, jose Vega González Vega San Juan Atzacualoya, Tlalmanalco, Méx. México. VZg0029 Vega, José_h@19_6 19",
     "url": "personas/VZg0029.html"
   },
   {
@@ -2762,10 +2762,50 @@
   {
     "tipo": "persona",
     "id": "PEa0035",
-    "titulo": "Estrada, Bardomianop",
+    "titulo": "Estrada, Bardomiano",
     "meta": "Persona Externa · García (de Figueroa) · Siglo XIX",
-    "texto_busqueda": "Estrada, Bardomianop estrada, bardomianop Persona Externa García (de Figueroa) PEa0035-Estrada, Bardomianop_h@19_4 19",
+    "texto_busqueda": "Estrada, Bardomiano estrada, bardomiano Persona Externa García (de Figueroa) PEa0035-Estrada, Bardomiano_h@19_4 19",
     "url": "personas/PEa0035.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEb0006",
+    "titulo": "Estrada, Gloria",
+    "meta": "Persona Externa · Gómez · Siglo XX",
+    "texto_busqueda": "Estrada, Gloria estrada, gloria Persona Externa Gómez PEb0006-Estrada, Gloria_m@20_3 20",
+    "url": "personas/PEb0006.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEa0036",
+    "titulo": "Estrada, Onofre",
+    "meta": "Persona Externa · García (de Figueroa) · Siglo XIX",
+    "texto_busqueda": "Estrada, Onofre estrada, onofre Persona Externa García (de Figueroa) PEa0036-Estrada, Onofre_h@19_4 19",
+    "url": "personas/PEa0036.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEb0007",
+    "titulo": "Estrada, Virgilio",
+    "meta": "Persona Externa · Gómez · Siglo XX",
+    "texto_busqueda": "Estrada, Virgilio estrada, virgilio Persona Externa Gómez PEb0007-Estrada, Virgilio_h@20_3 20",
+    "url": "personas/PEb0007.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEa0037",
+    "titulo": "Ezeta, M",
+    "meta": "Persona Externa · García (de Figueroa) · Siglo XIX",
+    "texto_busqueda": "Ezeta, M ezeta, m Persona Externa García (de Figueroa) Abogado PEa0037-Ezeta, M_h@19_4 19",
+    "url": "personas/PEa0037.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEa0038",
+    "titulo": "Fajardo, Zacarías",
+    "meta": "Persona Externa · García (de Figueroa) · Siglo XX",
+    "texto_busqueda": "Fajardo, Zacarías fajardo, zacarias Persona Externa García (de Figueroa) Médico PEa0038-Fajardo, Zacarías_h@20_2 20",
+    "url": "personas/PEa0038.html"
   },
   {
     "tipo": "documento",
