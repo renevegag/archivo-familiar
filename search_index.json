@@ -2688,6 +2688,86 @@
     "url": "personas/GGb0019.html"
   },
   {
+    "tipo": "persona",
+    "id": "PEc0002",
+    "titulo": "Domínguez, Ignacio",
+    "meta": "Persona Externa · Mondragón · Siglo XIX",
+    "texto_busqueda": "Domínguez, Ignacio dominguez, ignacio Persona Externa Mondragón PEc0002-Domínguez, Ignacio_h@19_4 19",
+    "url": "personas/PEc0002.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "VZg0029",
+    "titulo": "Vega, José",
+    "meta": "Vega González · Vega · —",
+    "texto_busqueda": "Vega, José vega, jose Vega González Vega San Juan Atzacualoya, Tlalmanalco, Méx. México. VZg0029 Vega, José_h@_6",
+    "url": "personas/VZg0029.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "FPg0017",
+    "titulo": "Domínguez, María",
+    "meta": "Familia Política · Vega · Siglo XVIII",
+    "texto_busqueda": "Domínguez, María dominguez, maria Familia Política Vega FPg0017-Domínguez, María_m@18_6 18",
+    "url": "personas/FPg0017.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEa0032",
+    "titulo": "Enríquez, Gumesindo",
+    "meta": "Persona Externa · García (de Figueroa) · Siglo XIX",
+    "texto_busqueda": "Enríquez, Gumesindo enriquez, gumesindo Persona Externa García (de Figueroa) Abogado PEa0032-Enríquez, Gumesindo_h@19_4 19",
+    "url": "personas/PEa0032.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEc0003",
+    "titulo": "Enríquez, Teófilo",
+    "meta": "Persona Externa · Mondragón · Siglo XIX",
+    "texto_busqueda": "Enríquez, Teófilo enriquez, teofilo Persona Externa Mondragón Albañil PEc0003-Enríquez, Teófilo_h@19_4 19",
+    "url": "personas/PEc0003.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEb0005",
+    "titulo": "Escalona, Luz",
+    "meta": "Persona Externa · Gómez · Siglo XIX",
+    "texto_busqueda": "Escalona, Luz escalona, luz Persona Externa Gómez PEb0005-Escalona, Luz_m@19_3 19",
+    "url": "personas/PEb0005.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEg0007",
+    "titulo": "Escamilla, P. J.",
+    "meta": "Persona Externa · Vega · Siglo XIX",
+    "texto_busqueda": "Escamilla, P. J. escamilla, p. j. Persona Externa Vega San Miguel Tenoxtitlán, Ixtlahuaca, Méx. México PEg0007-Escamilla, P. J._h@19_3 19",
+    "url": "personas/PEg0007.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEa0033",
+    "titulo": "Escárcega de López, Luisa",
+    "meta": "Persona Externa · García (de Figueroa) · Siglo XIX",
+    "texto_busqueda": "Escárcega de López, Luisa escarcega de lopez, luisa Persona Externa García (de Figueroa) PEa0033-Escárcega de López, Luisa_m@19_4 19",
+    "url": "personas/PEa0033.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEa0034",
+    "titulo": "Espinoza, F.",
+    "meta": "Persona Externa · García (de Figueroa) · Siglo XIX",
+    "texto_busqueda": "Espinoza, F. espinoza, f. Persona Externa García (de Figueroa) PEa0034-Espinoza, F._h@19_4 19",
+    "url": "personas/PEa0034.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEa0035",
+    "titulo": "Estrada, Bardomianop",
+    "meta": "Persona Externa · García (de Figueroa) · Siglo XIX",
+    "texto_busqueda": "Estrada, Bardomianop estrada, bardomianop Persona Externa García (de Figueroa) PEa0035-Estrada, Bardomianop_h@19_4 19",
+    "url": "personas/PEa0035.html"
+  },
+  {
     "tipo": "documento",
     "id": "1Aa0N001",
     "titulo": "EL PODER LEGISLATIVO DEL ESTADO DE MÉXICO EN EL SIGLO XIX Y EN LOS ALBORES DEL SIGLO XX, ÍNDICE DE DECRETOS",
