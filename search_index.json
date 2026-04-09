@@ -2840,6 +2840,134 @@
     "url": "personas/VZh0011.html"
   },
   {
+    "tipo": "persona",
+    "id": "PEa0042",
+    "titulo": "Flores, Anselmo",
+    "meta": "Persona Externa · García (de Figueroa) · Siglo XX",
+    "texto_busqueda": "Flores, Anselmo flores, anselmo Persona Externa García (de Figueroa) PEa0042-Flores, Anselmo_h@20_2 20",
+    "url": "personas/PEa0042.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "FPb0008",
+    "titulo": "Vigueras Cosío, Jesús",
+    "meta": "Familia Política · Gómez · Siglo XIX",
+    "texto_busqueda": "Vigueras Cosío, Jesús vigueras cosio, jesus Familia Política Gómez Sombrerero FPb0008-Vigueras Cosío, Jesús_h@19_5 19",
+    "url": "personas/FPb0008.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "GGb0021",
+    "titulo": "Flores Martínez, Dolores",
+    "meta": "García Gómez · Gómez · Siglo XIX",
+    "texto_busqueda": "Flores Martínez, Dolores flores martinez, dolores García Gómez Gómez Ama de casa GGb0021 Flores Martínez, Dolores_m@19_5 19",
+    "url": "personas/GGb0021.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEc0004",
+    "titulo": "Flores, Margarito",
+    "meta": "Persona Externa · Mondragón · Siglo XIX",
+    "texto_busqueda": "Flores, Margarito flores, margarito Persona Externa Mondragón Jornalero Toluca, Méx. México. PEc0004-Flores, Margarito_h@19_4 19",
+    "url": "personas/PEc0004.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEb0008",
+    "titulo": "Frías, Ambrosio",
+    "meta": "Persona Externa · Gómez · Siglo XIX",
+    "texto_busqueda": "Frías, Ambrosio frias, ambrosio Persona Externa Gómez Cura Párroco PEb0008-Frías, Ambrosio_h@19_3 19",
+    "url": "personas/PEb0008.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEa0043",
+    "titulo": "García, Alberto",
+    "meta": "Persona Externa · García (de Figueroa) · Siglo XIX",
+    "texto_busqueda": "García, Alberto garcia, alberto Persona Externa García (de Figueroa) Abogado Toluca, Méx. México. PEa0043-García, Alberto_h@19_4 19",
+    "url": "personas/PEa0043.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEa0044",
+    "titulo": "García, Felipe",
+    "meta": "Persona Externa · García (de Figueroa) · Siglo XIX",
+    "texto_busqueda": "García, Felipe garcia, felipe Persona Externa García (de Figueroa) PEa0044-García, Felipe_h@19_3 19",
+    "url": "personas/PEa0044.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "GGa0048",
+    "titulo": "García Moreno, Manuel",
+    "meta": "García Gómez · García (de Figueroa) · Siglo XIX",
+    "texto_busqueda": "García Moreno, Manuel garcia moreno, manuel García Gómez García (de Figueroa) Abogado Toluca, Méx. México. Toluca, Méx. México. GGa0048 García Moreno, Manuel_h@19_3 19",
+    "url": "personas/GGa0048.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEa0045",
+    "titulo": "García Rendón, Fidelio",
+    "meta": "Persona Externa · García (de Figueroa) · Siglo XX",
+    "texto_busqueda": "García Rendón, Fidelio garcia rendon, fidelio Persona Externa García (de Figueroa) Toluca, Méx. México. Toluca, Méx. México. PEa0045-García Rendón, Fidelio_h@20_2 20",
+    "url": "personas/PEa0045.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "GGb0022",
+    "titulo": "Gómez, Simón",
+    "meta": "García Gómez · Gómez · Siglo XIX",
+    "texto_busqueda": "Gómez, Simón gomez, simon García Gómez Gómez Cantero Toluca, Méx. México. Toluca, Méx. México. GGb0022 Gómez, Simón_h@19_4 19",
+    "url": "personas/GGb0022.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEg0008",
+    "titulo": "García, Fermín",
+    "meta": "Persona Externa · Vega · Siglo XIX",
+    "texto_busqueda": "García, Fermín garcia, fermin Persona Externa Vega PEg0008-García, Fermín_h@19_4 19",
+    "url": "personas/PEg0008.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEb0009",
+    "titulo": "García, Genaro",
+    "meta": "Persona Externa · Gómez · Siglo XIX",
+    "texto_busqueda": "García, Genaro garcia, genaro Persona Externa Gómez Toluca, Méx. México. PEb0009-García, Genaro_h@19_3 19",
+    "url": "personas/PEb0009.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEa0046",
+    "titulo": "Hernández, Benigno",
+    "meta": "Persona Externa · García (de Figueroa) · Siglo XIX",
+    "texto_busqueda": "Hernández, Benigno hernandez, benigno Persona Externa García (de Figueroa) Abogado, Juez Conciliador del Juzgado 2o Civil Toluca, Méx. México. PEa0046-Hernández, Benigno_h@19_4 19",
+    "url": "personas/PEa0046.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEa0047",
+    "titulo": "Leal, Angel D.",
+    "meta": "Persona Externa · García (de Figueroa) · Siglo XIX",
+    "texto_busqueda": "Leal, Angel D. leal, angel d. Persona Externa García (de Figueroa) Abogado Toluca, Méx. México. PEa0047-Leal, Angel D._h@19_4 19",
+    "url": "personas/PEa0047.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEa0048",
+    "titulo": "Merlín, Buenaventura",
+    "meta": "Persona Externa · García (de Figueroa) · Siglo XIX",
+    "texto_busqueda": "Merlín, Buenaventura merlin, buenaventura Persona Externa García (de Figueroa) Cura Párroco PEa0048-Merlín, Buenaventura_h@19_4 19",
+    "url": "personas/PEa0048.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEa0049",
+    "titulo": "Navarrete, Román",
+    "meta": "Persona Externa · García (de Figueroa) · Siglo XIX",
+    "texto_busqueda": "Navarrete, Román navarrete, roman Persona Externa García (de Figueroa) Toluca, Méx. México. PEa0049-Navarrete, Román_h@19_4 19",
+    "url": "personas/PEa0049.html"
+  },
+  {
     "tipo": "documento",
     "id": "1Aa0N001",
     "titulo": "EL PODER LEGISLATIVO DEL ESTADO DE MÉXICO EN EL SIGLO XIX Y EN LOS ALBORES DEL SIGLO XX, ÍNDICE DE DECRETOS",
