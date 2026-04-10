@@ -2898,9 +2898,9 @@
   {
     "tipo": "persona",
     "id": "GGa0048",
-    "titulo": "García Moreno, Manuel",
-    "meta": "García Gómez · García (de Figueroa) · Siglo XIX",
-    "texto_busqueda": "García Moreno, Manuel garcia moreno, manuel García Gómez García (de Figueroa) Abogado Toluca, Méx. México. Toluca, Méx. México. GGa0048 García Moreno, Manuel_h@19_3 19",
+    "titulo": "Moreno, Bonifacia Gertrúdis",
+    "meta": "García Gómez · García (de Figueroa) · Siglo XVIII",
+    "texto_busqueda": "Moreno, Bonifacia Gertrúdis moreno, bonifacia gertrudis García Gómez García (de Figueroa) Santa María Nativitas, Calimaya, Méx. México. GGa0048 Moreno, Bonifacia Gertrúdis _m@18_5 18",
     "url": "personas/GGa0048.html"
   },
   {
@@ -2962,9 +2962,9 @@
   {
     "tipo": "persona",
     "id": "PEa0049",
-    "titulo": "Navarrete, Román",
+    "titulo": "García, María Ana",
     "meta": "Persona Externa · García (de Figueroa) · Siglo XIX",
-    "texto_busqueda": "Navarrete, Román navarrete, roman Persona Externa García (de Figueroa) Toluca, Méx. México. PEa0049-Navarrete, Román_h@19_4 19",
+    "texto_busqueda": "García, María Ana garcia, maria ana Persona Externa García (de Figueroa) PEa0049-García, María Ana_m@19_4 19",
     "url": "personas/PEa0049.html"
   },
   {
@@ -2982,6 +2982,102 @@
     "meta": "Vega González · González · Siglo XIX",
     "texto_busqueda": "González Silva, Serapio Antonio de Jesús gonzalez silva, serapio antonio de jesus Vega González González Zentlalpan, Amecameca, Méx. México. VZh0013 González Silva, Serapio Antonio de Jesús_h@19_4 19",
     "url": "personas/VZh0013.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEb0010",
+    "titulo": "García, Porfirio",
+    "meta": "Persona Externa · Gómez · Siglo XX",
+    "texto_busqueda": "García, Porfirio garcia, porfirio Persona Externa Gómez Jornalero PEb0010-García, Porfirio_h@20_4 20",
+    "url": "personas/PEb0010.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEa0050",
+    "titulo": "García, Vicente",
+    "meta": "Persona Externa · García (de Figueroa) · Siglo XX",
+    "texto_busqueda": "García, Vicente garcia, vicente Persona Externa García (de Figueroa) Administrador de cine PEa0050-García, Vicente_h@20_2 20",
+    "url": "personas/PEa0050.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEa0051",
+    "titulo": "García, Ynocente",
+    "meta": "Persona Externa · García (de Figueroa) · Siglo XIX",
+    "texto_busqueda": "García, Ynocente garcia, ynocente Persona Externa García (de Figueroa) Abogado PEa0051-García, Ynocente_h@19_4 19",
+    "url": "personas/PEa0051.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEa0052",
+    "titulo": "García Cebada, José Manuel",
+    "meta": "Persona Externa · García (de Figueroa) · Siglo XX",
+    "texto_busqueda": "García Cebada, José Manuel garcia cebada, jose manuel Persona Externa García (de Figueroa) Médico PEa0052-García Cebada, José Manuel_h@20_2 20",
+    "url": "personas/PEa0052.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEb0011",
+    "titulo": "García Pérez, Mario",
+    "meta": "Persona Externa · Gómez · Siglo XX",
+    "texto_busqueda": "García Pérez, Mario garcia perez, mario Persona Externa Gómez PEb0011-García Pérez, Mario_h@20_3 20",
+    "url": "personas/PEb0011.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEb0012",
+    "titulo": "Garduño, Eduardo",
+    "meta": "Persona Externa · Gómez · Siglo XIX",
+    "texto_busqueda": "Garduño, Eduardo garduno, eduardo Persona Externa Gómez Abogado PEb0012-Garduño, Eduardo_h@19_2 19",
+    "url": "personas/PEb0012.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEa0053",
+    "titulo": "Garduño, Emilio",
+    "meta": "Persona Externa · García (de Figueroa) · Siglo XIX",
+    "texto_busqueda": "Garduño, Emilio garduno, emilio Persona Externa García (de Figueroa) PEa0053-Garduño, Emilio_h@19_4 19",
+    "url": "personas/PEa0053.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEa0054",
+    "titulo": "Giles, José María",
+    "meta": "Persona Externa · García (de Figueroa) · Siglo XIX",
+    "texto_busqueda": "Giles, José María giles, jose maria Persona Externa García (de Figueroa) Empleado municipal PEa0054-Giles, José María_h@19_4 19",
+    "url": "personas/PEa0054.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEa0055",
+    "titulo": "Girault, Edmundo",
+    "meta": "Persona Externa · García (de Figueroa) · Siglo XIX",
+    "texto_busqueda": "Girault, Edmundo girault, edmundo Persona Externa García (de Figueroa) Ingeniero Civil PEa0055-Girault, Edmundo_h@19_4 19",
+    "url": "personas/PEa0055.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEa0056",
+    "titulo": "Gómez, Domingo",
+    "meta": "Persona Externa · García (de Figueroa) · Siglo XIX",
+    "texto_busqueda": "Gómez, Domingo gomez, domingo Persona Externa García (de Figueroa) PEa0056-Gómez, Domingo_h@19_4 19",
+    "url": "personas/PEa0056.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "FPb0009",
+    "titulo": "Torres, Andrea",
+    "meta": "Familia Política · Gómez · Siglo XIX",
+    "texto_busqueda": "Torres, Andrea torres, andrea Familia Política Gómez FPb0009-Torres, Andrea_m@19_4 19",
+    "url": "personas/FPb0009.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "GGb0023",
+    "titulo": "Gómez Torres, María Concepción Victoriana",
+    "meta": "García Gómez · Gómez · Siglo XIX",
+    "texto_busqueda": "Gómez Torres, María Concepción Victoriana gomez torres, maria concepcion victoriana García Gómez Gómez Toluca, Méx. México. GGb0023 Gómez Torres, María Concepción Victoriana_m@19_3 19",
+    "url": "personas/GGb0023.html"
   },
   {
     "tipo": "documento",
