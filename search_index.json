@@ -2042,9 +2042,9 @@
   {
     "tipo": "persona",
     "id": "VZh0003",
-    "titulo": "González De Hita, Antonio",
+    "titulo": "González Jiménez, Antonio",
     "meta": "Vega González · González · Siglo XIX",
-    "texto_busqueda": "González De Hita, Antonio gonzalez de hita, antonio González Jiménez, Antonio Vega González González VZh0003 González De Hita, Antonio_h@19_4 19",
+    "texto_busqueda": "González Jiménez, Antonio gonzalez jimenez, antonio González de Hita, Antonio Vega González González VZh0003 González Jiménez, Antonio_h@19_4 19",
     "url": "personas/VZh0003.html"
   },
   {
@@ -2962,9 +2962,9 @@
   {
     "tipo": "persona",
     "id": "PEa0049",
-    "titulo": "García, María Ana",
+    "titulo": "Navarrete, Román",
     "meta": "Persona Externa · García (de Figueroa) · Siglo XIX",
-    "texto_busqueda": "García, María Ana garcia, maria ana Persona Externa García (de Figueroa) PEa0049-García, María Ana_m@19_4 19",
+    "texto_busqueda": "Navarrete, Román navarrete, roman Persona Externa García (de Figueroa) Toluca, Méx. México. PEa0049-Navarrete, Román_h@19_4 19",
     "url": "personas/PEa0049.html"
   },
   {
@@ -3078,6 +3078,134 @@
     "meta": "García Gómez · Gómez · Siglo XIX",
     "texto_busqueda": "Gómez Torres, María Concepción Victoriana gomez torres, maria concepcion victoriana García Gómez Gómez Toluca, Méx. México. GGb0023 Gómez Torres, María Concepción Victoriana_m@19_3 19",
     "url": "personas/GGb0023.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEg0009",
+    "titulo": "González, Abraham",
+    "meta": "Persona Externa · Vega · Siglo XIX",
+    "texto_busqueda": "González, Abraham gonzalez, abraham Persona Externa Vega PEg0009-González, Abraham_h@19_3 19",
+    "url": "personas/PEg0009.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEg0010",
+    "titulo": "González, Marìa",
+    "meta": "Persona Externa · Vega · Siglo XIX",
+    "texto_busqueda": "González, Marìa gonzalez, maria Persona Externa Vega PEg0010-González, Marìa_m@19_3 19",
+    "url": "personas/PEg0010.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEa0057",
+    "titulo": "González, Rosa",
+    "meta": "Persona Externa · García (de Figueroa) · Siglo XIX",
+    "texto_busqueda": "González, Rosa gonzalez, rosa Persona Externa García (de Figueroa) Toluca, Méx. PEa0057-González, Rosa_m@19_4 19",
+    "url": "personas/PEa0057.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEa0058",
+    "titulo": "Gorenwold, Enríque",
+    "meta": "Persona Externa · García (de Figueroa) · Siglo XX",
+    "texto_busqueda": "Gorenwold, Enríque gorenwold, enrique Persona Externa García (de Figueroa) Médico PEa0058-Gorenwold, Enrique_h@20_2 20",
+    "url": "personas/PEa0058.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEa0059",
+    "titulo": "Guadarrama, Ángel",
+    "meta": "Persona Externa · García (de Figueroa) · Siglo XIX",
+    "texto_busqueda": "Guadarrama, Ángel guadarrama, angel Persona Externa García (de Figueroa) Empleado PEa0059-Guadarrama, Ángel_h@19_4 19",
+    "url": "personas/PEa0059.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEa0060",
+    "titulo": "Guadarrama, Cesario",
+    "meta": "Persona Externa · García (de Figueroa) · Siglo XIX",
+    "texto_busqueda": "Guadarrama, Cesario guadarrama, cesario Persona Externa García (de Figueroa) Jornalero PEa0060-Guadarrama, Cesario_h@19_3 19",
+    "url": "personas/PEa0060.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEa0061",
+    "titulo": "Gutiérrez, Domingo",
+    "meta": "Persona Externa · García (de Figueroa) · Siglo XIX",
+    "texto_busqueda": "Gutiérrez, Domingo gutierrez, domingo Persona Externa García (de Figueroa) PEa0061-Gutiérrez, Domingo_h@19_4 19",
+    "url": "personas/PEa0061.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEa0062",
+    "titulo": "Guzmán, José María",
+    "meta": "Persona Externa · García (de Figueroa) · Siglo XIX",
+    "texto_busqueda": "Guzmán, José María guzman, jose maria Persona Externa García (de Figueroa) PEa0062-Guzmán, José María_h@19_4 19",
+    "url": "personas/PEa0062.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEa0063",
+    "titulo": "Guzmán, María Concepción",
+    "meta": "Persona Externa · García (de Figueroa) · Siglo XIX",
+    "texto_busqueda": "Guzmán, María Concepción guzman, maria concepcion Persona Externa García (de Figueroa) PEa0063-Guzmán, María Concepción_m@19_4 19",
+    "url": "personas/PEa0063.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEg0011",
+    "titulo": "Morales, José  María",
+    "meta": "Persona Externa · Vega · Siglo XIX",
+    "texto_busqueda": "Morales, José  María morales, jose  maria Persona Externa Vega Jornalero PEg0011-Morales, José  María_h@19_5 19",
+    "url": "personas/PEg0011.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEf0001",
+    "titulo": "Quintanar, María Encarnación",
+    "meta": "Persona Externa · Chávez · Siglo XIX",
+    "texto_busqueda": "Quintanar, María Encarnación quintanar, maria encarnacion Persona Externa Chávez PEf0001-Quintanar, María Encarnación_m@19_3 19",
+    "url": "personas/PEf0001.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEf0002",
+    "titulo": "Reséndiz, Teófilo",
+    "meta": "Persona Externa · Chávez · Siglo XIX",
+    "texto_busqueda": "Reséndiz, Teófilo resendiz, teofilo Persona Externa Chávez PEf0002-Reséndiz, Teófilo_h@19_3 19",
+    "url": "personas/PEf0002.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEh0003",
+    "titulo": "Leija , Manuel",
+    "meta": "Persona Externa · González · Siglo XIX",
+    "texto_busqueda": "Leija , Manuel leija , manuel Persona Externa González Cura Párroco PEh0003-Leija , Manuel_h@19_4 19",
+    "url": "personas/PEh0003.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEh0004",
+    "titulo": "Paez, Ma. De Jesús",
+    "meta": "Persona Externa · González · Siglo XIX",
+    "texto_busqueda": "Paez, Ma. De Jesús paez, ma. de jesus Persona Externa González PEh0004-Paez, Ma. De Jesús_m@19_4 19",
+    "url": "personas/PEh0004.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEh0005",
+    "titulo": "Rendón, Manuel",
+    "meta": "Persona Externa · González · Siglo XIX",
+    "texto_busqueda": "Rendón, Manuel rendon, manuel Persona Externa González Cura Párroco PEh0005-Rendón, Manuel_h@19_4 19",
+    "url": "personas/PEh0005.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEa0064",
+    "titulo": "Riva Palacio, Mariano",
+    "meta": "Persona Externa · García (de Figueroa) · Siglo XIX",
+    "texto_busqueda": "Riva Palacio, Mariano riva palacio, mariano Persona Externa García (de Figueroa) Abogado PEa0064-Riva Palacio, Mariano_h@19_4 19",
+    "url": "personas/PEa0064.html"
   },
   {
     "tipo": "documento",
