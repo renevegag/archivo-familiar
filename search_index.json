@@ -1210,9 +1210,9 @@
   {
     "tipo": "persona",
     "id": "GNe0003",
-    "titulo": "Reséndiz Núñez Alfonso",
+    "titulo": "Núñez Chávez, Hilda",
     "meta": "García Núñez · Núñez · Siglo XX",
-    "texto_busqueda": "Reséndiz Núñez Alfonso resendiz nunez alfonso García Núñez Núñez Actuario Distrito Federal, México. GNe0003 Reséndiz Núñez Alfonso_h@20_1 20",
+    "texto_busqueda": "Núñez Chávez, Hilda nunez chavez, hilda García Núñez Núñez Profesora Distrito Federal, México. Ciudad de México GNe0003 Núñez Chávez, Hilda_m@20_1 20",
     "url": "personas/GNe0003.html"
   },
   {
@@ -2138,9 +2138,9 @@
   {
     "tipo": "persona",
     "id": "PEa0003",
-    "titulo": "Ynclán, Antonio",
+    "titulo": "Navarrete, Román",
     "meta": "Persona Externa · García (de Figueroa) · Siglo XIX",
-    "texto_busqueda": "Ynclán, Antonio ynclan, antonio Persona Externa García (de Figueroa) PEa0003-Ynclán, Antonio_h@19_4 19",
+    "texto_busqueda": "Navarrete, Román navarrete, roman Persona Externa García (de Figueroa) Toluca, Méx. México. PEa0003-Navarrete, Román_h@19_4 19",
     "url": "personas/PEa0003.html"
   },
   {
@@ -2570,9 +2570,9 @@
   {
     "tipo": "persona",
     "id": "PEg0004",
-    "titulo": "Chico, Servanda",
+    "titulo": "Célis Cortés, Ponciano",
     "meta": "Persona Externa · Vega · Siglo XIX",
-    "texto_busqueda": "Chico, Servanda chico, servanda Persona Externa Vega PEg0004-Chico, Servanda_m@19_4 19",
+    "texto_busqueda": "Célis Cortés, Ponciano celis cortes, ponciano Persona Externa Vega Cura Vicario PEg0004-Célis Cortés, Ponciano_h@19_4 19",
     "url": "personas/PEg0004.html"
   },
   {
@@ -2898,9 +2898,9 @@
   {
     "tipo": "persona",
     "id": "GGa0048",
-    "titulo": "Moreno, Bonifacia Gertrúdis",
-    "meta": "García Gómez · García (de Figueroa) · Siglo XVIII",
-    "texto_busqueda": "Moreno, Bonifacia Gertrúdis moreno, bonifacia gertrudis García Gómez García (de Figueroa) Santa María Nativitas, Calimaya, Méx. México. GGa0048 Moreno, Bonifacia Gertrúdis _m@18_5 18",
+    "titulo": "García Moreno, Manuel",
+    "meta": "García Gómez · García (de Figueroa) · Siglo XIX",
+    "texto_busqueda": "García Moreno, Manuel garcia moreno, manuel García Gómez García (de Figueroa) Abogado Toluca, Méx. México. Toluca, Méx. México. GGa0048 García Moreno, Manuel_h@19_3 19",
     "url": "personas/GGa0048.html"
   },
   {
@@ -2962,9 +2962,9 @@
   {
     "tipo": "persona",
     "id": "PEa0049",
-    "titulo": "Navarrete, Román",
+    "titulo": "García, María Ana",
     "meta": "Persona Externa · García (de Figueroa) · Siglo XIX",
-    "texto_busqueda": "Navarrete, Román navarrete, roman Persona Externa García (de Figueroa) Toluca, Méx. México. PEa0049-Navarrete, Román_h@19_4 19",
+    "texto_busqueda": "García, María Ana garcia, maria ana Persona Externa García (de Figueroa) PEa0049-García, María Ana_m@19_4 19",
     "url": "personas/PEa0049.html"
   },
   {
@@ -3206,6 +3206,110 @@
     "meta": "Persona Externa · García (de Figueroa) · Siglo XIX",
     "texto_busqueda": "Riva Palacio, Mariano riva palacio, mariano Persona Externa García (de Figueroa) Abogado PEa0064-Riva Palacio, Mariano_h@19_4 19",
     "url": "personas/PEa0064.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEa0066",
+    "titulo": "González Monroy, Luis",
+    "meta": "Persona Externa · García (de Figueroa) · Siglo XIX",
+    "texto_busqueda": "González Monroy, Luis gonzalez monroy, luis Persona Externa García (de Figueroa) PEa0066-González Monroy, Luis_h@19_3 19",
+    "url": "personas/PEa0066.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "VZh0015",
+    "titulo": "González Silva, María Tomasa",
+    "meta": "Vega González · González · Siglo XIX",
+    "texto_busqueda": "González Silva, María Tomasa gonzalez silva, maria tomasa Vega González González Zentlalpan, Amecameca, Méx. México. VZh0015 González Silva, María Tomasa_m@19_5 19",
+    "url": "personas/VZh0015.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEa0065",
+    "titulo": "González, Camilo",
+    "meta": "Persona Externa · García (de Figueroa) · Siglo XIX",
+    "texto_busqueda": "González, Camilo gonzalez, camilo Persona Externa García (de Figueroa) PEa0065-González, Camilo_h@19_4 19",
+    "url": "personas/PEa0065.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "VZh0014",
+    "titulo": "González, Fernando",
+    "meta": "Vega González · González · Siglo XIX",
+    "texto_busqueda": "González, Fernando gonzalez, fernando Vega González González Comerciante San Juan Atzacualoya, Tlalmanalco, Méx. México. VZh0014 González, Fernando_h@19_3 19",
+    "url": "personas/VZh0014.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEb0013",
+    "titulo": "Henkel, Alberto",
+    "meta": "Persona Externa · Gómez · Siglo XIX",
+    "texto_busqueda": "Henkel, Alberto henkel, alberto Persona Externa Gómez PEb0013-Henkel, Alberto_h@19_4 19",
+    "url": "personas/PEb0013.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEa0067",
+    "titulo": "Hernández, Pedro",
+    "meta": "Persona Externa · García (de Figueroa) · Siglo XX",
+    "texto_busqueda": "Hernández, Pedro hernandez, pedro Persona Externa García (de Figueroa) Comerciante PEa0067-Hernández, Pedro_h@20_2 20",
+    "url": "personas/PEa0067.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEb0014",
+    "titulo": "Hernández, Petra",
+    "meta": "Persona Externa · Gómez · Siglo XIX",
+    "texto_busqueda": "Hernández, Petra hernandez, petra Persona Externa Gómez PEb0014-Hernández, Petra_m@19_2 19",
+    "url": "personas/PEb0014.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEa0068",
+    "titulo": "Herrera, Valente M.",
+    "meta": "Persona Externa · García (de Figueroa) · Siglo XIX",
+    "texto_busqueda": "Herrera, Valente M. herrera, valente m. Persona Externa García (de Figueroa) Cura Párroco PEa0068-Herrera, Valente M._h@19_2 19",
+    "url": "personas/PEa0068.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEb0015",
+    "titulo": "Hidalgo, Ramón",
+    "meta": "Persona Externa · Gómez · Siglo XIX",
+    "texto_busqueda": "Hidalgo, Ramón hidalgo, ramon Persona Externa Gómez Empleado PEb0015-Hidalgo, Ramón_h@19_4 19",
+    "url": "personas/PEb0015.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEb0016",
+    "titulo": "Jaime, Aurelio",
+    "meta": "Persona Externa · Gómez · Siglo XIX",
+    "texto_busqueda": "Jaime, Aurelio jaime, aurelio Persona Externa Gómez PEb0016-Jaime, Aurelio_h@19_3 19",
+    "url": "personas/PEb0016.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEg0012",
+    "titulo": "Chico, Servanda",
+    "meta": "Persona Externa · Vega · Siglo XIX",
+    "texto_busqueda": "Chico, Servanda chico, servanda Persona Externa Vega PEg0012-Chico, Servanda_m@19_4 19",
+    "url": "personas/PEg0012.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "GGa0049",
+    "titulo": "Moreno, Bonifacia Gertrúdis",
+    "meta": "García Gómez · García (de Figueroa) · Siglo XVIII",
+    "texto_busqueda": "Moreno, Bonifacia Gertrúdis moreno, bonifacia gertrudis García Gómez García (de Figueroa) Santa María Nativitas, Calimaya, Méx. México. GGa0049 Moreno, Bonifacia Gertrúdis _m@18_5 18",
+    "url": "personas/GGa0049.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "GNe0012",
+    "titulo": "Reséndiz Núñez Alfonso",
+    "meta": "García Núñez · Núñez · Siglo XX",
+    "texto_busqueda": "Reséndiz Núñez Alfonso resendiz nunez alfonso García Núñez Núñez Actuario Distrito Federal, México. GNe0012 Reséndiz Núñez Alfonso_h@20_1 20",
+    "url": "personas/GNe0012.html"
   },
   {
     "tipo": "documento",
