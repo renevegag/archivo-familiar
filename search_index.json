@@ -3312,6 +3312,86 @@
     "url": "personas/GNe0012.html"
   },
   {
+    "tipo": "persona",
+    "id": "FPa0043",
+    "titulo": "Manjarrez, Concepción",
+    "meta": "Familia Política · García (de Figueroa) · Siglo XIX",
+    "texto_busqueda": "Manjarrez, Concepción manjarrez, concepcion Familia Política García (de Figueroa) FPa0043-Manjarrez, Concepción_m@19_3 19",
+    "url": "personas/FPa0043.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEa0069",
+    "titulo": "Lara, Francísco",
+    "meta": "Persona Externa · García (de Figueroa) · Siglo XIX",
+    "texto_busqueda": "Lara, Francísco lara, francisco Persona Externa García (de Figueroa) Cura Párroco PEa0069-Lara, Francísco_h@19_4 19",
+    "url": "personas/PEa0069.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEa0070",
+    "titulo": "León, José",
+    "meta": "Persona Externa · García (de Figueroa) · Siglo XIX",
+    "texto_busqueda": "León, José leon, jose Persona Externa García (de Figueroa) PEa0070-León, José_h@19_4 19",
+    "url": "personas/PEa0070.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEa0071",
+    "titulo": "Longinos, María",
+    "meta": "Persona Externa · García (de Figueroa) · Siglo XIX",
+    "texto_busqueda": "Longinos, María longinos, maria Persona Externa García (de Figueroa) PEa0071-Longinos, María_m@19_4 19",
+    "url": "personas/PEa0071.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEa0072",
+    "titulo": "Mañón y Valle",
+    "meta": "Persona Externa · García (de Figueroa) · Siglo XIX",
+    "texto_busqueda": "Mañón y Valle manon y valle Persona Externa García (de Figueroa) PEa0072-Mañón y Valle_h@19_4 19",
+    "url": "personas/PEa0072.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEa0073",
+    "titulo": "Pichardo, José María",
+    "meta": "Persona Externa · García (de Figueroa) · Siglo XIX",
+    "texto_busqueda": "Pichardo, José María pichardo, jose maria Persona Externa García (de Figueroa) Tenancingo, Méx. México. PEa0073-Pichardo, José María_h@19_3 19",
+    "url": "personas/PEa0073.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEb0018",
+    "titulo": "León, Santiago",
+    "meta": "Persona Externa · Gómez · Siglo XX",
+    "texto_busqueda": "León, Santiago leon, santiago Persona Externa Gómez PEb0018-León, Santiago_h@20_3 20",
+    "url": "personas/PEb0018.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEc0005",
+    "titulo": "López, Jesús",
+    "meta": "Persona Externa · Mondragón · Siglo XIX",
+    "texto_busqueda": "López, Jesús lopez, jesus Persona Externa Mondragón Comerciante Toluca, Méx. México. PEc0005-López, Jesús_h@19_4 19",
+    "url": "personas/PEc0005.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEg0013",
+    "titulo": "María Paula (Casales)",
+    "meta": "Persona Externa · Vega · Siglo XIX",
+    "texto_busqueda": "María Paula (Casales) maria paula (casales) Persona Externa Vega PEg0013-María Paula (Casales)_m@19_4 19",
+    "url": "personas/PEg0013.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEh0006",
+    "titulo": "López, José Santos",
+    "meta": "Persona Externa · González · Siglo XIX",
+    "texto_busqueda": "López, José Santos lopez, jose santos Persona Externa González PEh0006-López, José Santos_h@19_5 19",
+    "url": "personas/PEh0006.html"
+  },
+  {
     "tipo": "documento",
     "id": "1Aa0N001",
     "titulo": "EL PODER LEGISLATIVO DEL ESTADO DE MÉXICO EN EL SIGLO XIX Y EN LOS ALBORES DEL SIGLO XX, ÍNDICE DE DECRETOS",
