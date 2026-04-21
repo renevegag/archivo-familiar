@@ -3440,6 +3440,102 @@
     "url": "personas/PEb0019.html"
   },
   {
+    "tipo": "persona",
+    "id": "PEb0020",
+    "titulo": "Mendoza, Vicente",
+    "meta": "Persona Externa · Gómez · Siglo XIX",
+    "texto_busqueda": "Mendoza, Vicente mendoza, vicente Persona Externa Gómez PEb0020-Mendoza, Vicente_h@19_4 19",
+    "url": "personas/PEb0020.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEa0075",
+    "titulo": "Mercado, Guadalupe",
+    "meta": "Persona Externa · García (de Figueroa) · Siglo XIX",
+    "texto_busqueda": "Mercado, Guadalupe mercado, guadalupe Persona Externa García (de Figueroa) PEa0075-Mercado, Guadalupe_h@19_4 19",
+    "url": "personas/PEa0075.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEa0076",
+    "titulo": "Millán, Andrés",
+    "meta": "Persona Externa · García (de Figueroa) · Siglo XIX",
+    "texto_busqueda": "Millán, Andrés millan, andres Persona Externa García (de Figueroa) Abogado PEa0076-Millán, Andrés_h@19_3 19",
+    "url": "personas/PEa0076.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEa0077",
+    "titulo": "Mirafuentes, Juan N.",
+    "meta": "Persona Externa · García (de Figueroa) · Siglo XIX",
+    "texto_busqueda": "Mirafuentes, Juan N. mirafuentes, juan n. Persona Externa García (de Figueroa) Militar PEa0077-Mirafuentes, Juan N._h@19_4 19",
+    "url": "personas/PEa0077.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEa0078",
+    "titulo": "González Monroy, Manuel",
+    "meta": "Persona Externa · García (de Figueroa) · Siglo XIX",
+    "texto_busqueda": "González Monroy, Manuel gonzalez monroy, manuel Persona Externa García (de Figueroa) PEa0078-González Monroy, Manuel_h@19_3 19",
+    "url": "personas/PEa0078.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "FPa0044",
+    "titulo": "Montes de Oca, Gertrúdis",
+    "meta": "Familia Política · García (de Figueroa) · Siglo XVIII",
+    "texto_busqueda": "Montes de Oca, Gertrúdis montes de oca, gertrudis Familia Política García (de Figueroa) FPa0044-Montes de Oca, Gertrúdis_m@18_6 18",
+    "url": "personas/FPa0044.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEc0006",
+    "titulo": "Montiel, José",
+    "meta": "Persona Externa · Mondragón · Siglo XIX",
+    "texto_busqueda": "Montiel, José montiel, jose Persona Externa Mondragón PEc0006-Montiel, José_h@19_3 19",
+    "url": "personas/PEc0006.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "GGa0050",
+    "titulo": "Moreno, Francísca",
+    "meta": "García Gómez · García (de Figueroa) · Siglo XIX",
+    "texto_busqueda": "Moreno, Francísca moreno, francisca García Gómez García (de Figueroa) GGa0050 Moreno, Francísca_m@19_5 19",
+    "url": "personas/GGa0050.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEg0014",
+    "titulo": "Moreno, Herculano",
+    "meta": "Persona Externa · Vega · Siglo XIX",
+    "texto_busqueda": "Moreno, Herculano moreno, herculano Persona Externa Vega PEg0014-Moreno, Herculano_h@19_4 19",
+    "url": "personas/PEg0014.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEa0079",
+    "titulo": "Moreno Vélez, Tirso",
+    "meta": "Persona Externa · García (de Figueroa) · Siglo XIX",
+    "texto_busqueda": "Moreno Vélez, Tirso moreno velez, tirso Persona Externa García (de Figueroa) PEa0079-Moreno Vélez, Tirso_h@19_2 19",
+    "url": "personas/PEa0079.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEa0080",
+    "titulo": "Ozuna, Clemente",
+    "meta": "Persona Externa · García (de Figueroa) · Siglo XIX",
+    "texto_busqueda": "Ozuna, Clemente ozuna, clemente Persona Externa García (de Figueroa) Jornalero PEa0080-Ozuna, Clemente_h@19_2 19",
+    "url": "personas/PEa0080.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "GGa0051",
+    "titulo": "Moreno y Valencia, José María",
+    "meta": "García Gómez · García (de Figueroa) · Siglo XIX",
+    "texto_busqueda": "Moreno y Valencia, José María moreno y valencia, jose maria García Gómez García (de Figueroa) GGa0051 Moreno y Valencia, José María_h@19_6 19",
+    "url": "personas/GGa0051.html"
+  },
+  {
     "tipo": "documento",
     "id": "1Aa0N001",
     "titulo": "EL PODER LEGISLATIVO DEL ESTADO DE MÉXICO EN EL SIGLO XIX Y EN LOS ALBORES DEL SIGLO XX, ÍNDICE DE DECRETOS",
