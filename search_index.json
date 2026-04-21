@@ -3392,6 +3392,54 @@
     "url": "personas/PEh0006.html"
   },
   {
+    "tipo": "persona",
+    "id": "PEh0007",
+    "titulo": "Silva, Eulogio",
+    "meta": "Persona Externa · González · Siglo XIX",
+    "texto_busqueda": "Silva, Eulogio silva, eulogio Persona Externa González Zentlalpan, Amecameca, Méx. México. PEh0007-Silva, Eulogio_h@19_5 19",
+    "url": "personas/PEh0007.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEh0008",
+    "titulo": "Marpernea, Higinia",
+    "meta": "Persona Externa · González · Siglo XIX",
+    "texto_busqueda": "Marpernea, Higinia marpernea, higinia Persona Externa González Zentlalpan, Amecameca, Méx. México. PEh0008-Marpernea, Higinia_m@19_5 19",
+    "url": "personas/PEh0008.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "GGb0024",
+    "titulo": "Martínez, Cleofas",
+    "meta": "García Gómez · Gómez · Siglo XIX",
+    "texto_busqueda": "Martínez, Cleofas martinez, cleofas García Gómez Gómez Toluca, Méx. México. Toluca, Méx. México. GGb0024 Martínez, Cleofas_m@19_4 19",
+    "url": "personas/GGb0024.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEa0074",
+    "titulo": "Martínez, Felipe",
+    "meta": "Persona Externa · García (de Figueroa) · Siglo XIX",
+    "texto_busqueda": "Martínez, Felipe martinez, felipe Persona Externa García (de Figueroa) Cura Párroco PEa0074-Martínez, Felipe_h@19_3 19",
+    "url": "personas/PEa0074.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEh0009",
+    "titulo": "Martínez, Leopoldo",
+    "meta": "Persona Externa · González · Siglo XIX",
+    "texto_busqueda": "Martínez, Leopoldo martinez, leopoldo Persona Externa González PEh0009-Martínez, Leopoldo_h@19_3 19",
+    "url": "personas/PEh0009.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEb0019",
+    "titulo": "Mendoza, Braulio",
+    "meta": "Persona Externa · Gómez · Siglo XIX",
+    "texto_busqueda": "Mendoza, Braulio mendoza, braulio Persona Externa Gómez Conductor de carruajes Toluca, Méx. México. PEb0019-Mendoza, Braulio_h@19_5 19",
+    "url": "personas/PEb0019.html"
+  },
+  {
     "tipo": "documento",
     "id": "1Aa0N001",
     "titulo": "EL PODER LEGISLATIVO DEL ESTADO DE MÉXICO EN EL SIGLO XIX Y EN LOS ALBORES DEL SIGLO XX, ÍNDICE DE DECRETOS",
