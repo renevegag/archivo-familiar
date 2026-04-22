@@ -3536,6 +3536,54 @@
     "url": "personas/GGa0051.html"
   },
   {
+    "tipo": "persona",
+    "id": "PEa0081",
+    "titulo": "Mulia, Miguel",
+    "meta": "Persona Externa · García (de Figueroa) · Siglo XIX",
+    "texto_busqueda": "Mulia, Miguel mulia, miguel Persona Externa García (de Figueroa) Cura Párroco PEa0081-Mulia, Miguel_h@19_2 19",
+    "url": "personas/PEa0081.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEa0082",
+    "titulo": "Muñíz, Alfredo",
+    "meta": "Persona Externa · García (de Figueroa) · Siglo XX",
+    "texto_busqueda": "Muñíz, Alfredo muniz, alfredo Persona Externa García (de Figueroa) PEa0082-Muñíz, Alfredo_h@20_2 20",
+    "url": "personas/PEa0082.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEc0007",
+    "titulo": "Nieves, Ignacio",
+    "meta": "Persona Externa · Mondragón · Siglo XX",
+    "texto_busqueda": "Nieves, Ignacio nieves, ignacio Persona Externa Mondragón PEc0007-Nieves, Ignacio_h@20_2 20",
+    "url": "personas/PEc0007.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEb0021",
+    "titulo": "Nava, Lorenzo",
+    "meta": "Persona Externa · Gómez · Siglo XIX",
+    "texto_busqueda": "Nava, Lorenzo nava, lorenzo Persona Externa Gómez PEb0021-Nava, Lorenzo_h@19_4 19",
+    "url": "personas/PEb0021.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEb0022",
+    "titulo": "Núñez, Julián",
+    "meta": "Persona Externa · Gómez · Siglo XX",
+    "texto_busqueda": "Núñez, Julián nunez, julian Persona Externa Gómez PEb0022-Núñez, Julián_h@20_4 20",
+    "url": "personas/PEb0022.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEa0083",
+    "titulo": "Ocaranza, Fernando",
+    "meta": "Persona Externa · García (de Figueroa) · Siglo XIX",
+    "texto_busqueda": "Ocaranza, Fernando ocaranza, fernando Persona Externa García (de Figueroa) Médico PEa0083-Ocaranza, Fernando_h@19_3 19",
+    "url": "personas/PEa0083.html"
+  },
+  {
     "tipo": "documento",
     "id": "1Aa0N001",
     "titulo": "EL PODER LEGISLATIVO DEL ESTADO DE MÉXICO EN EL SIGLO XIX Y EN LOS ALBORES DEL SIGLO XX, ÍNDICE DE DECRETOS",
