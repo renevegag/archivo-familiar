@@ -3584,6 +3584,134 @@
     "url": "personas/PEa0083.html"
   },
   {
+    "tipo": "persona",
+    "id": "PEc0008",
+    "titulo": "Muñoz, Cándido",
+    "meta": "Persona Externa · Mondragón · Siglo XIX",
+    "texto_busqueda": "Muñoz, Cándido munoz, candido Persona Externa Mondragón PEc0008-Muñoz, Cándido_h@19_4 19",
+    "url": "personas/PEc0008.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEc0009",
+    "titulo": "Ordáz, José A.",
+    "meta": "Persona Externa · Mondragón · Siglo XIX",
+    "texto_busqueda": "Ordáz, José A. ordaz, jose a. Persona Externa Mondragón Cura Párroco PEc0009-Ordáz, José A._h@19_2 19",
+    "url": "personas/PEc0009.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEa0084",
+    "titulo": "Ortega, Alfonso",
+    "meta": "Persona Externa · García (de Figueroa) · Siglo XX",
+    "texto_busqueda": "Ortega, Alfonso ortega, alfonso Persona Externa García (de Figueroa) Abogado PEa0084-Ortega, Alfonso_h@20_2 20",
+    "url": "personas/PEa0084.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEa0085",
+    "titulo": "Ortíz, José Antonio",
+    "meta": "Persona Externa · García (de Figueroa) · Siglo XIX",
+    "texto_busqueda": "Ortíz, José Antonio ortiz, jose antonio Persona Externa García (de Figueroa) Cura vicario PEa0085-Ortíz, José Antonio_h@19_4 19",
+    "url": "personas/PEa0085.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEa0086",
+    "titulo": "Otal y Piña",
+    "meta": "Persona Externa · García (de Figueroa) · Siglo XIX",
+    "texto_busqueda": "Otal y Piña otal y pina Persona Externa García (de Figueroa) Abogado PEa0086-Otal y Piña_h@19_4 19",
+    "url": "personas/PEa0086.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEg0015",
+    "titulo": "Padilla, Blas",
+    "meta": "Persona Externa · Vega · Siglo XIX",
+    "texto_busqueda": "Padilla, Blas padilla, blas Persona Externa Vega Cura Párroco PEg0015-Padilla, Blas_h@19_5 19",
+    "url": "personas/PEg0015.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEc0010",
+    "titulo": "Patiño , Juan",
+    "meta": "Persona Externa · Mondragón · Siglo XIX",
+    "texto_busqueda": "Patiño , Juan patino , juan Persona Externa Mondragón Cura vicario PEc0010-Patiño , Juan_h@19_3 19",
+    "url": "personas/PEc0010.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEc0011",
+    "titulo": "Piña, María de Jesús",
+    "meta": "Persona Externa · Mondragón · Siglo XX",
+    "texto_busqueda": "Piña, María de Jesús pina, maria de jesus Persona Externa Mondragón PEc0011-Piña, María de Jesús_m@20_2 20",
+    "url": "personas/PEc0011.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEa0087",
+    "titulo": "Perdomo, Cayetano",
+    "meta": "Persona Externa · García (de Figueroa) · Siglo XIX",
+    "texto_busqueda": "Perdomo, Cayetano perdomo, cayetano Persona Externa García (de Figueroa) PEa0087-Perdomo, Cayetano_h@19_4 19",
+    "url": "personas/PEa0087.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEa0088",
+    "titulo": "Pérez Pliego, Francisco",
+    "meta": "Persona Externa · García (de Figueroa) · Siglo XIX",
+    "texto_busqueda": "Pérez Pliego, Francisco perez pliego, francisco Persona Externa García (de Figueroa) Abogado PEa0088-Pérez Pliego, Francisco_h@19_4 19",
+    "url": "personas/PEa0088.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEg0016",
+    "titulo": "Pérez, Lino",
+    "meta": "Persona Externa · Vega · Siglo XIX",
+    "texto_busqueda": "Pérez, Lino perez, lino Persona Externa Vega PEg0016-Pérez, Lino_h@19_5 19",
+    "url": "personas/PEg0016.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEg0017",
+    "titulo": "Pineda, Saturnino",
+    "meta": "Persona Externa · Vega · Siglo XIX",
+    "texto_busqueda": "Pineda, Saturnino pineda, saturnino Persona Externa Vega Cura vicario PEg0017-Pineda, Saturnino_h@19_4 19",
+    "url": "personas/PEg0017.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEa0089",
+    "titulo": "Placeres, Atanacio",
+    "meta": "Persona Externa · García (de Figueroa) · Siglo XIX",
+    "texto_busqueda": "Placeres, Atanacio placeres, atanacio Persona Externa García (de Figueroa) Médico PEa0089-Placeres, Atanacio_h@19_2 19",
+    "url": "personas/PEa0089.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEa0090",
+    "titulo": "Pliego y Cruz, Antonio",
+    "meta": "Persona Externa · García (de Figueroa) · Siglo XIX",
+    "texto_busqueda": "Pliego y Cruz, Antonio pliego y cruz, antonio Persona Externa García (de Figueroa) Abogado PEa0090-Pliego y Cruz, Antonio_h@19_3 19",
+    "url": "personas/PEa0090.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEa0091",
+    "titulo": "Portillo, Pascual",
+    "meta": "Persona Externa · García (de Figueroa) · Siglo XIX",
+    "texto_busqueda": "Portillo, Pascual portillo, pascual Persona Externa García (de Figueroa) PEa0091-Portillo, Pascual_h@19_4 19",
+    "url": "personas/PEa0091.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEa0092",
+    "titulo": "Ramírez, Ernesto Carlos",
+    "meta": "Persona Externa · García (de Figueroa) · Siglo XIX",
+    "texto_busqueda": "Ramírez, Ernesto Carlos ramirez, ernesto carlos Persona Externa García (de Figueroa) PEa0092-Ramírez, Ernesto Carlos_h@19_4 19",
+    "url": "personas/PEa0092.html"
+  },
+  {
     "tipo": "documento",
     "id": "1Aa0N001",
     "titulo": "EL PODER LEGISLATIVO DEL ESTADO DE MÉXICO EN EL SIGLO XIX Y EN LOS ALBORES DEL SIGLO XX, ÍNDICE DE DECRETOS",
