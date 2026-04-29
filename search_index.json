@@ -3856,6 +3856,94 @@
     "url": "personas/PEa0103.html"
   },
   {
+    "tipo": "persona",
+    "id": "PEa0104",
+    "titulo": "Sánchez, Francisco",
+    "meta": "Persona Externa · García (de Figueroa) · Siglo XIX",
+    "texto_busqueda": "Sánchez, Francisco sanchez, francisco Persona Externa García (de Figueroa) PEa0104-Sánchez, Francisco_h@19_4 19",
+    "url": "personas/PEa0104.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEa0105",
+    "titulo": "Sánchez, Jesús",
+    "meta": "Persona Externa · García (de Figueroa) · Siglo XIX",
+    "texto_busqueda": "Sánchez, Jesús sanchez, jesus Persona Externa García (de Figueroa) PEa0105-Sánchez, Jesús_h@19_4 19",
+    "url": "personas/PEa0105.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEb0028",
+    "titulo": "Sánchez, José",
+    "meta": "Persona Externa · Gómez · Siglo XIX",
+    "texto_busqueda": "Sánchez, José sanchez, jose Persona Externa Gómez Tejedor PEb0028-Sánchez, José_h@19_2 19",
+    "url": "personas/PEb0028.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEc0012",
+    "titulo": "Sánchez, Luis",
+    "meta": "Persona Externa · Mondragón · Siglo XX",
+    "texto_busqueda": "Sánchez, Luis sanchez, luis Persona Externa Mondragón PEc0012-Sánchez, Luis_h@20_2 20",
+    "url": "personas/PEc0012.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEa0106",
+    "titulo": "Sánchez, María Francisca",
+    "meta": "Persona Externa · García (de Figueroa) · Siglo XVIII",
+    "texto_busqueda": "Sánchez, María Francisca sanchez, maria francisca Persona Externa García (de Figueroa) Toluca, Méx. México. PEa0106-Sánchez, María Francisca_m@18_5 18",
+    "url": "personas/PEa0106.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEa0107",
+    "titulo": "Sánchez, Mariano",
+    "meta": "Persona Externa · García (de Figueroa) · Siglo XX",
+    "texto_busqueda": "Sánchez, Mariano sanchez, mariano Persona Externa García (de Figueroa) PEa0107-Sánchez, Mariano_h@20_2 20",
+    "url": "personas/PEa0107.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEa0108",
+    "titulo": "Santín, José Luis",
+    "meta": "Persona Externa · García (de Figueroa) · Siglo XIX",
+    "texto_busqueda": "Santín, José Luis santin, jose luis Persona Externa García (de Figueroa) Toluca, Méx. México. PEa0108-Santín, José Luis_h@19_2 19",
+    "url": "personas/PEa0108.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEg0019",
+    "titulo": "Sartre, Pedro",
+    "meta": "Persona Externa · Vega · Siglo XIX",
+    "texto_busqueda": "Sartre, Pedro sartre, pedro Persona Externa Vega Cura Párroco PEg0019-Sartre, Pedro_h@19_3 19",
+    "url": "personas/PEg0019.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEa0109",
+    "titulo": "Sedillo, Sebastián de A.",
+    "meta": "Persona Externa · García (de Figueroa) · Siglo XIX",
+    "texto_busqueda": "Sedillo, Sebastián de A. sedillo, sebastian de a. Persona Externa García (de Figueroa) Cura Párroco PEa0109-Sedillo, Sebastián de A._h@19_2 19",
+    "url": "personas/PEa0109.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEa0110",
+    "titulo": "Serrano, Juan",
+    "meta": "Persona Externa · García (de Figueroa) · Siglo XIX",
+    "texto_busqueda": "Serrano, Juan serrano, juan Persona Externa García (de Figueroa) PEa0110-Serrano, Juan_h@19_4 19",
+    "url": "personas/PEa0110.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEa0111",
+    "titulo": "Serrano, Magdaleno",
+    "meta": "Persona Externa · García (de Figueroa) · Siglo XIX",
+    "texto_busqueda": "Serrano, Magdaleno serrano, magdaleno Persona Externa García (de Figueroa) Notificador del Juzgado Segundo Civil de Toluca PEa0111-Serrano, Magdaleno_h@19_4 19",
+    "url": "personas/PEa0111.html"
+  },
+  {
     "tipo": "documento",
     "id": "1Aa0N001",
     "titulo": "EL PODER LEGISLATIVO DEL ESTADO DE MÉXICO EN EL SIGLO XIX Y EN LOS ALBORES DEL SIGLO XX, ÍNDICE DE DECRETOS",
