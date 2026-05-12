@@ -3874,9 +3874,9 @@
   {
     "tipo": "persona",
     "id": "PEb0028",
-    "titulo": "Suárez, Eusebio",
+    "titulo": "Sánchez, José",
     "meta": "Persona Externa · Gómez · Siglo XIX",
-    "texto_busqueda": "Suárez, Eusebio suarez, eusebio Persona Externa Gómez PEb0028-Suárez, Eusebio_h@19_5 19",
+    "texto_busqueda": "Sánchez, José sanchez, jose Persona Externa Gómez Tejedor PEb0028-Sánchez, José_h@19_2 19",
     "url": "personas/PEb0028.html"
   },
   {
@@ -4030,6 +4030,54 @@
     "meta": "Vega González · Vega · Siglo XIX",
     "texto_busqueda": "Vega Tome, José Domingo Magdaleno vega tome, jose domingo magdaleno Vega González Vega VZg0032 Vega Tome, José Domingo Magdaleno_h@19_3 19",
     "url": "personas/VZg0032.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEa0115",
+    "titulo": "Valdés, Celio",
+    "meta": "Persona Externa · García (de Figueroa) · Siglo XIX",
+    "texto_busqueda": "Valdés, Celio valdes, celio Persona Externa García (de Figueroa) PEa0115-Valdés, Celio_h@19_3 19",
+    "url": "personas/PEa0115.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEb0029",
+    "titulo": "Valdés, Fausto",
+    "meta": "Persona Externa · Gómez · Siglo XIX",
+    "texto_busqueda": "Valdés, Fausto valdes, fausto Persona Externa Gómez PEb0029-Valdés, Fausto_h@19_3 19",
+    "url": "personas/PEb0029.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEg0021",
+    "titulo": "Valverde Téllez, Emeterio",
+    "meta": "Persona Externa · Vega · Siglo XIX",
+    "texto_busqueda": "Valverde Téllez, Emeterio valverde tellez, emeterio Persona Externa Vega Cura vicario PEg0021-Valverde Téllez, Emeterio_h@19_3 19",
+    "url": "personas/PEg0021.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEb0030",
+    "titulo": "Vargas, Genoveva",
+    "meta": "Persona Externa · Gómez · Siglo XIX",
+    "texto_busqueda": "Vargas, Genoveva vargas, genoveva Persona Externa Gómez PEb0030-Vargas, Genoveva_m@19_3 19",
+    "url": "personas/PEb0030.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEb0031",
+    "titulo": "Suárez, Eusebio",
+    "meta": "Persona Externa · Gómez · Siglo XIX",
+    "texto_busqueda": "Suárez, Eusebio suarez, eusebio Persona Externa Gómez PEb0031-Suárez, Eusebio_h@19_5 19",
+    "url": "personas/PEb0031.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "VZg0033",
+    "titulo": "Vega, María Felícitas",
+    "meta": "Vega González · Vega · Siglo XIX",
+    "texto_busqueda": "Vega, María Felícitas vega, maria felicitas Vega González Vega San Juan Atzacualoya, Tlalmanalco, Méx. México. San Juan Atzacualoya, Tlalmanalco, Méx. México. VZg0033 Vega, María Felícitas_m@19_4 19",
+    "url": "personas/VZg0033.html"
   },
   {
     "tipo": "documento",
