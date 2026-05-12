@@ -4080,6 +4080,94 @@
     "url": "personas/VZg0033.html"
   },
   {
+    "tipo": "persona",
+    "id": "VZg0034",
+    "titulo": "Vega, María Felipa",
+    "meta": "Vega González · Vega · Siglo XIX",
+    "texto_busqueda": "Vega, María Felipa vega, maria felipa Vega González Vega San Juan Atzacualoya, Tlalmanalco, Méx. México. San Juan Atzacualoya, Tlalmanalco, Méx. México. VZg0034 Vega, María Felipa_m@19_4 19",
+    "url": "personas/VZg0034.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "VZg0035",
+    "titulo": "Vega Beltrán, María Jacinta",
+    "meta": "Vega González · Vega · Siglo XIX",
+    "texto_busqueda": "Vega Beltrán, María Jacinta vega beltran, maria jacinta Vega González Vega San Juan Atzacualoya, Tlalmanalco, Méx. México. VZg0035 Vega Beltrán, María Jacinta_m@19_3 19",
+    "url": "personas/VZg0035.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "VZg0036",
+    "titulo": "Vega Beltrán, Melitón",
+    "meta": "Vega González · Vega · Siglo XIX",
+    "texto_busqueda": "Vega Beltrán, Melitón vega beltran, meliton Vega González Vega San Juan Atzacualoya, Tlalmanalco, Méx. México. VZg0036 Vega Beltrán, Melitón_h@19_3 19",
+    "url": "personas/VZg0036.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEa0116",
+    "titulo": "Velázquez, Luis",
+    "meta": "Persona Externa · García (de Figueroa) · Siglo XIX",
+    "texto_busqueda": "Velázquez, Luis velazquez, luis Persona Externa García (de Figueroa) PEa0116-Velázquez, Luis_h@19_3 19",
+    "url": "personas/PEa0116.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEa0117",
+    "titulo": "Velázquez, Palnucio",
+    "meta": "Persona Externa · García (de Figueroa) · Siglo XIX",
+    "texto_busqueda": "Velázquez, Palnucio velazquez, palnucio Persona Externa García (de Figueroa) PEa0117-Velázquez, Palnucio_h@19_3 19",
+    "url": "personas/PEa0117.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEe0001",
+    "titulo": "Velázquez, Luis G",
+    "meta": "Persona Externa · Núñez · Siglo XIX",
+    "texto_busqueda": "Velázquez, Luis G velazquez, luis g Persona Externa Núñez Cura Párroco PEe0001-Velázquez, Luis G_h@19_2 19",
+    "url": "personas/PEe0001.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEa0118",
+    "titulo": "Vélez, Cipriano",
+    "meta": "Persona Externa · García (de Figueroa) · Siglo XIX",
+    "texto_busqueda": "Vélez, Cipriano velez, cipriano Persona Externa García (de Figueroa) PEa0118-Vélez, Cipriano_h@19_2 19",
+    "url": "personas/PEa0118.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEa0119",
+    "titulo": "Vicencio, Celso",
+    "meta": "Persona Externa · García (de Figueroa) · Siglo XIX",
+    "texto_busqueda": "Vicencio, Celso vicencio, celso Persona Externa García (de Figueroa) PEa0119-Vicencio, Celso_h@19_4 19",
+    "url": "personas/PEa0119.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEa0120",
+    "titulo": "Vietto, Vicente",
+    "meta": "Persona Externa · García (de Figueroa) · Siglo XIX",
+    "texto_busqueda": "Vietto, Vicente vietto, vicente Persona Externa García (de Figueroa) Médico PEa0120-Vietto, Vicente_h@19_3 19",
+    "url": "personas/PEa0120.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEa0121",
+    "titulo": "Villada, Manuel M.",
+    "meta": "Persona Externa · García (de Figueroa) · Siglo XIX",
+    "texto_busqueda": "Villada, Manuel M. villada, manuel m. Persona Externa García (de Figueroa) Médico PEa0121-Villada, Manuel M._h@19_4 19",
+    "url": "personas/PEa0121.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEa0122",
+    "titulo": "Villarello, Dionisio",
+    "meta": "Persona Externa · García (de Figueroa) · Siglo XIX",
+    "texto_busqueda": "Villarello, Dionisio villarello, dionisio Persona Externa García (de Figueroa) Abogado Orizaba, Ver. PEa0122-Villarello, Dionisio_h@19_ 19",
+    "url": "personas/PEa0122.html"
+  },
+  {
     "tipo": "documento",
     "id": "1Aa0N001",
     "titulo": "EL PODER LEGISLATIVO DEL ESTADO DE MÉXICO EN EL SIGLO XIX Y EN LOS ALBORES DEL SIGLO XX, ÍNDICE DE DECRETOS",
