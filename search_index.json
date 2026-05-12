@@ -3874,9 +3874,9 @@
   {
     "tipo": "persona",
     "id": "PEb0028",
-    "titulo": "Sánchez, José",
+    "titulo": "Suárez, Eusebio",
     "meta": "Persona Externa · Gómez · Siglo XIX",
-    "texto_busqueda": "Sánchez, José sanchez, jose Persona Externa Gómez Tejedor PEb0028-Sánchez, José_h@19_2 19",
+    "texto_busqueda": "Suárez, Eusebio suarez, eusebio Persona Externa Gómez PEb0028-Suárez, Eusebio_h@19_5 19",
     "url": "personas/PEb0028.html"
   },
   {
@@ -3942,6 +3942,94 @@
     "meta": "Persona Externa · García (de Figueroa) · Siglo XIX",
     "texto_busqueda": "Serrano, Magdaleno serrano, magdaleno Persona Externa García (de Figueroa) Notificador del Juzgado Segundo Civil de Toluca PEa0111-Serrano, Magdaleno_h@19_4 19",
     "url": "personas/PEa0111.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEh0011",
+    "titulo": "Segura, Arcadio",
+    "meta": "Persona Externa · González · Siglo XIX",
+    "texto_busqueda": "Segura, Arcadio segura, arcadio Persona Externa González PEh0011-Segura, Arcadio_h@19_3 19",
+    "url": "personas/PEh0011.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "VZh0016",
+    "titulo": "Silva, María Andrea",
+    "meta": "Vega González · González · Siglo XIX",
+    "texto_busqueda": "Silva, María Andrea silva, maria andrea Vega González González Zentlalpan, Amecameca, Méx. México. VZh0016 Silva, María Andrea_m@19_5 19",
+    "url": "personas/VZh0016.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEa0112",
+    "titulo": "Solano, Cristobal",
+    "meta": "Persona Externa · García (de Figueroa) · Siglo XIX",
+    "texto_busqueda": "Solano, Cristobal solano, cristobal Persona Externa García (de Figueroa) Abogado Capulhuac, Méx. México PEa0112-Solano, Cristobal_h@19_4 19",
+    "url": "personas/PEa0112.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEa0113",
+    "titulo": "Sotelo, Mauro",
+    "meta": "Persona Externa · García (de Figueroa) · Siglo XIX",
+    "texto_busqueda": "Sotelo, Mauro sotelo, mauro Persona Externa García (de Figueroa) PEa0113-Sotelo, Mauro_h@19_3 19",
+    "url": "personas/PEa0113.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEc0013",
+    "titulo": "Souza, Rafael",
+    "meta": "Persona Externa · Mondragón · Siglo XIX",
+    "texto_busqueda": "Souza, Rafael souza, rafael Persona Externa Mondragón Médico PEc0013-Souza, Rafael_h@19_4 19",
+    "url": "personas/PEc0013.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEa0114",
+    "titulo": "Suárez Ruano, Vicente",
+    "meta": "Persona Externa · García (de Figueroa) · Siglo XIX",
+    "texto_busqueda": "Suárez Ruano, Vicente suarez ruano, vicente Persona Externa García (de Figueroa) PEa0114-Suárez Ruano, Vicente_h@19_3 19",
+    "url": "personas/PEa0114.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEg0020",
+    "titulo": "Tapia, Gabino",
+    "meta": "Persona Externa · Vega · Siglo XIX",
+    "texto_busqueda": "Tapia, Gabino tapia, gabino Persona Externa Vega San Juan Atzacualoya, Tlalmanalco, Méx. México. PEg0020-Tapia, Gabino_h@19_4 19",
+    "url": "personas/PEg0020.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "VZg0030",
+    "titulo": "Vega, Miguel",
+    "meta": "Vega González · Vega · Siglo XIX",
+    "texto_busqueda": "Vega, Miguel vega, miguel Vega González Vega San Juan Atzacualoya, Tlalmanalco, Méx. México. VZg0030 Vega, Miguel_h@19_4 19",
+    "url": "personas/VZg0030.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "FPg0018",
+    "titulo": "Tomé, María Simona",
+    "meta": "Familia Política · Vega · Siglo XIX",
+    "texto_busqueda": "Tomé, María Simona tome, maria simona Familia Política Vega FPg0018-Tomé, María Simona_m@19_4 19",
+    "url": "personas/FPg0018.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "VZg0031",
+    "titulo": "Vega Tomé, José Zeferino",
+    "meta": "Vega González · Vega · Siglo XIX",
+    "texto_busqueda": "Vega Tomé, José Zeferino vega tome, jose zeferino Vega González Vega Tlalmanalco, Méx. México. VZg0031 Vega Tomé, José Zeferino_h@19_3 19",
+    "url": "personas/VZg0031.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "VZg0032",
+    "titulo": "Vega Tome, José Domingo Magdaleno",
+    "meta": "Vega González · Vega · Siglo XIX",
+    "texto_busqueda": "Vega Tome, José Domingo Magdaleno vega tome, jose domingo magdaleno Vega González Vega VZg0032 Vega Tome, José Domingo Magdaleno_h@19_3 19",
+    "url": "personas/VZg0032.html"
   },
   {
     "tipo": "documento",
