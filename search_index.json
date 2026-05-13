@@ -4168,6 +4168,62 @@
     "url": "personas/PEa0122.html"
   },
   {
+    "tipo": "persona",
+    "id": "PEa0123",
+    "titulo": "Villavicencio, Arcadio",
+    "meta": "Persona Externa · García (de Figueroa) · Siglo XIX",
+    "texto_busqueda": "Villavicencio, Arcadio villavicencio, arcadio Persona Externa García (de Figueroa) Abogado PEa0123-Villavicencio, Arcadio_h@19_4 19",
+    "url": "personas/PEa0123.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEa0124",
+    "titulo": "Villela, Enríque",
+    "meta": "Persona Externa · García (de Figueroa) · Siglo XIX",
+    "texto_busqueda": "Villela, Enríque villela, enrique Persona Externa García (de Figueroa) Facultativo PEa0124-Villela, Enríque_h@19_ 19",
+    "url": "personas/PEa0124.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEb0032",
+    "titulo": "Villuendas Castañeda, María Elena",
+    "meta": "Persona Externa · Gómez · Siglo XX",
+    "texto_busqueda": "Villuendas Castañeda, María Elena villuendas castaneda, maria elena Persona Externa Gómez Médico PEb0032-Villuendas Castañeda, María Elena_m@20_2 20",
+    "url": "personas/PEb0032.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEh0012",
+    "titulo": "Ysita, Jovita",
+    "meta": "Persona Externa · González · Siglo XIX",
+    "texto_busqueda": "Ysita, Jovita ysita, jovita Persona Externa González PEh0012-Ysita, Jovita_m@19_3 19",
+    "url": "personas/PEh0012.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEg0022",
+    "titulo": "Yslas, Juan M.",
+    "meta": "Persona Externa · Vega · Siglo XIX",
+    "texto_busqueda": "Yslas, Juan M. yslas, juan m. Persona Externa Vega Tlalmanalco, Méx. México PEg0022-Yslas, Juan M._h@19_3 19",
+    "url": "personas/PEg0022.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEa0125",
+    "titulo": "Zamora, Camilo",
+    "meta": "Persona Externa · García (de Figueroa) · Siglo XIX",
+    "texto_busqueda": "Zamora, Camilo zamora, camilo Persona Externa García (de Figueroa) Abogado Actopan, Hgo. PEa0125-Zamora, Camilo_h@19_4 19",
+    "url": "personas/PEa0125.html"
+  },
+  {
+    "tipo": "persona",
+    "id": "PEa0126",
+    "titulo": "Zúñiga, Pablo",
+    "meta": "Persona Externa · García (de Figueroa) · Siglo XIX",
+    "texto_busqueda": "Zúñiga, Pablo zuniga, pablo Persona Externa García (de Figueroa) PEa0126-Zúñiga, Pablo_h@19_3 19",
+    "url": "personas/PEa0126.html"
+  },
+  {
     "tipo": "documento",
     "id": "1Aa0N001",
     "titulo": "EL PODER LEGISLATIVO DEL ESTADO DE MÉXICO EN EL SIGLO XIX Y EN LOS ALBORES DEL SIGLO XX, ÍNDICE DE DECRETOS",
